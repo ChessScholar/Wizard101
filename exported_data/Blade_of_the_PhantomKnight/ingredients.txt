@@ -1,0 +1,12 @@
+TreasureCard:Extraordinary: 2
+Aether: 3
+Black Pearl: 4
+Onyx: 20
+Bone: 15
+Astral Shard: 3
+Blood Moss: 10
+TreasureCard:Polymorph Ninja Pig: 1
+Bone: Variable
+Refined Bone: Variable
+Bone: Variable
+Refined Bone: Variable

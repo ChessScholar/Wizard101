@@ -1,0 +1,10 @@
+Mote of Beauty: 1
+Fish:Royal Gurnard: 2
+Mote of Wisdom: 1
+Scrap Iron: 25
+Bronze Gear: 2
+Amethyst: 10
+Bronze Gear: Variable
+Refined Bronze Gear: Variable
+Bronze Gear: Variable
+Refined Bronze Gear: Variable
