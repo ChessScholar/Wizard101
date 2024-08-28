@@ -1,0 +1,8 @@
+Perfect Citrine: 25
+Golden Pearl: 5
+Blood Moss: 10
+Astral Shard: 3
+Ancient Scroll: 12
+Vine: 1
+TreasureCard:Locust Swarm: 20
+Stone Block: 15
