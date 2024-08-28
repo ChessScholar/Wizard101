@@ -1,0 +1,7 @@
+Aethyr Ore: 25
+TreasureCard:Orthrus: 10
+Shining Scales: 3
+Shocked Key: 10
+Flying Squid Ink: 45
+Perfect Peridot: 35
+Baba Yaga's Legendary Mace: 1

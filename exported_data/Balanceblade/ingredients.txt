@@ -1,0 +1,12 @@
+TreasureCard:Scarab: 1
+TreasureCard:Scorpion: 1
+Citrine: 7
+Black Coal: 3
+Shadow Oil: 4
+Black Lotus: 5
+Ore: 10
+Diamond: 3
+Black Lotus: Variable
+Refined Black Lotus: Variable
+Black Lotus: Variable
+Refined Black Lotus: Variable

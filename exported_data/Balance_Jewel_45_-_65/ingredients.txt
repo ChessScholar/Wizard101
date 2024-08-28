@@ -1,0 +1,3 @@
+Flawless Citrine: 15
+Bronze: 4
+TreasureCard:Elemental Spear: 4
