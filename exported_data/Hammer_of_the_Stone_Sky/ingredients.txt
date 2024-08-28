@@ -1,0 +1,6 @@
+TreasureCard:Centaur: 4
+Ghost Fire: 8
+Pristine Vial: 10
+Black Pearl: 3
+Scales: 16
+Fossil: 9

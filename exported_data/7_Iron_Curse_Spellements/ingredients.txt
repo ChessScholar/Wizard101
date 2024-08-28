@@ -1,0 +1,7 @@
+TreasureCard:Steel Giant: 1
+Cyclops Idol (Balance): 4
+Moongold Dust: 1
+TreasureCard:Iron Curse: Variable
+TreasureCard:Steel Giant: Variable
+TreasureCard:Iron Curse: Variable
+TreasureCard:Steel Giant: Variable

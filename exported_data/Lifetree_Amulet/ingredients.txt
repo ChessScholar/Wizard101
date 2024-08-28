@@ -1,0 +1,11 @@
+TreasureCard:Gargantuan: 1
+TreasureCard:Amplify: 1
+Ghost Fire: 10
+Pristine Vial: 10
+Black Pearl: 16
+Bone: 13
+Scales: 12
+Bone: Variable
+Refined Bone: Variable
+Bone: Variable
+Refined Bone: Variable

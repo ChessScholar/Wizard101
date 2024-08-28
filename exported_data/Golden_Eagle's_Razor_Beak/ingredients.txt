@@ -1,0 +1,8 @@
+TreasureCard:Extraordinary: 1
+TreasureCard:Ra: 1
+Shadow Oil: 25
+Agave Nectar: 4
+Parchment: 20
+Ore: 10
+Diamond: 4
+Turquoise: 6

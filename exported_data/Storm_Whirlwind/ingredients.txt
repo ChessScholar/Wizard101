@@ -1,0 +1,8 @@
+TreasureCard:Darkwind: 25
+Fish:Stormacuda: 5
+House:Ultra Boom Shroom: 1
+Mote of Transport: 1
+Perfect Amethyst: 25
+Ectoplasm: 5
+Aether: 10
+Parchment: 15

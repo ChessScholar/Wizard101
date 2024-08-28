@@ -1,0 +1,2 @@
+TreasureCard:Azoth: 440
+TreasureCard:Summon Crying Sky Revenant: 14

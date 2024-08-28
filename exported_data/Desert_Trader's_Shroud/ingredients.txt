@@ -1,0 +1,7 @@
+Astral Shard: 5
+TreasureCard:Vengeance: 8
+Comet Tail: 20
+Sunstone: 12
+Diamond: 4
+Scrap Iron: 8
+TreasureCard:Furnace: 2

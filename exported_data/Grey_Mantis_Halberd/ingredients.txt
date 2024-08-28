@@ -1,0 +1,8 @@
+Braided Vine: 3
+Stardust: 1
+Agave Nectar: 10
+Astral Shard: 6
+TreasureCard:Chastisement: 5
+Scrap Iron: 4
+TreasureCard:Conviction: 6
+Scales: 15

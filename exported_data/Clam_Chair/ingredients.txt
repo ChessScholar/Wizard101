@@ -1,0 +1,7 @@
+TreasureCard:Polymorph Gobbler: 2
+Perfect Amethyst: 1
+Glass Vial: 1
+Shell: 6
+Sunstone: 3
+Red Mandrake: 18
+Fish Fin: 3

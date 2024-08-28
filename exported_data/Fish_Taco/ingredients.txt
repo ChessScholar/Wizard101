@@ -1,0 +1,3 @@
+TreasureCard:Ice Trap: 3
+Fish:Catfish: 1
+Scales: 4

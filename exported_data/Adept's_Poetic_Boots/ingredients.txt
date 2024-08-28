@@ -1,0 +1,8 @@
+Senator's Poetic Boots: 1
+TreasureCard:Minotaur: 4
+Pristine Vial: 20
+Black Pearl: 5
+Water Lily: 20
+Blood Moss: 30
+Ore: 15
+Pearl: 10

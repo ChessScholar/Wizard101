@@ -1,0 +1,3 @@
+Perfect Ruby: 15
+Orichalcum: 7
+TreasureCard:Quench: 5

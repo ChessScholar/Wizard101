@@ -1,0 +1,8 @@
+TreasureCard:Savage Paw: 6
+Perfect Ruby: 100
+Ghost Fire: 200
+Fossil: 50
+Turquoise: 25
+Scrap Iron: 50
+Sunstone: 25
+Amber: 12

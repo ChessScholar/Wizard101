@@ -1,0 +1,7 @@
+TreasureCard:Amplify: 5
+Perfect Onyx: 4
+Pristine Vial: 5
+Sunstone: 3
+Golden Pearl: 7
+Fish Fin: 8
+Shell: 8

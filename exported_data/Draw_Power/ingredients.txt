@@ -1,0 +1,5 @@
+TreasureCard:Cyclops: 1
+Citrine: 2
+Shadow Oil: 3
+Mist Wood: 6
+Ore: 4

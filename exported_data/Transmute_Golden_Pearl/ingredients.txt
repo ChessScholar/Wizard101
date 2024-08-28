@@ -1,0 +1,5 @@
+Pearl: 15
+Pearl: Variable
+Refined Pearl: Variable
+Pearl: Variable
+Refined Pearl: Variable

@@ -1,0 +1,8 @@
+TreasureCard:Hephaestus: 10
+Perfect Ruby: 120
+Ghost Fire: 200
+Black Pearl: 60
+Black Coal: 120
+Astral Shard: 60
+Sunstone: 60
+Amber: 18

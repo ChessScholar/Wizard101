@@ -1,0 +1,6 @@
+TreasureCard:Vampire: 5
+Perfect Onyx: 1
+Pristine Vial: 1
+Sunstone: 10
+Aquamarine: 17
+Blood Moss: 10

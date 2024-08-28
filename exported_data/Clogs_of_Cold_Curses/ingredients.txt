@@ -1,0 +1,7 @@
+TreasureCard:Colossus: 2
+Perfect Sapphire: 2
+Pristine Vial: 2
+Fish Fin: 9
+Aquamarine: 12
+Shell: 17
+Fossil: 15

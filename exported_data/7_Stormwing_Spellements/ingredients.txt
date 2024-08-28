@@ -1,0 +1,9 @@
+TreasureCard:Thunderbird (515-595): 1
+Wolf Warrior Idol (Storm): 4
+Moongold Dust: 1
+TreasureCard:Stormwing: Variable
+TreasureCard:Thunderbird (515-595): Variable
+TreasureCard:Thunderbird (610): Variable
+TreasureCard:Stormwing: Variable
+TreasureCard:Thunderbird (515-595): Variable
+TreasureCard:Thunderbird (610): Variable

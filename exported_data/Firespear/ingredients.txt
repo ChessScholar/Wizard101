@@ -1,0 +1,3 @@
+TreasureCard:Fireblade: 1
+Fire Rune: 2
+Enhanced Fire Rune: 1

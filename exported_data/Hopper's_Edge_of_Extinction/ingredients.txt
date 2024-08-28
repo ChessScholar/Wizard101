@@ -1,0 +1,8 @@
+TreasureCard:Empower: 4
+Scrap Iron: 5
+Black Pearl: 4
+Perfect Onyx: 10
+TreasureCard:Balanceblade: 1
+Astral Shard: 3
+TreasureCard:Ghoul: 10
+TreasureCard:Deathblade: 1

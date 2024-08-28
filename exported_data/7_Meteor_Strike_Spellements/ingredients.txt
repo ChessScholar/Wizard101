@@ -1,0 +1,19 @@
+TreasureCard:Meteor Strike: 1
+Minotaur Idol (Fire): 4
+Moongold Dust: 1
+Colossus Idol (Fire): Variable
+Cyclops Idol (Fire): Variable
+Draconian Idol (Fire): Variable
+Elf Idol (Fire): Variable
+Colossus Idol (Fire): Variable
+Cyclops Idol (Fire): Variable
+Draconian Idol (Fire): Variable
+Elf Idol (Fire): Variable
+Fairy Idol (Fire): Variable
+Minotaur Idol (Fire): Variable
+Ninja Pig Idol (Fire): Variable
+Rat Thief Idol (Fire): Variable
+Fairy Idol (Fire): Variable
+Minotaur Idol (Fire): Variable
+Ninja Pig Idol (Fire): Variable
+Rat Thief Idol (Fire): Variable

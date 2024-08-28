@@ -1,0 +1,7 @@
+Ectoplasm: 2
+Simple Vial: 1
+Black Coal: 4
+Ectoplasm: Variable
+Refined Ectoplasm: Variable
+Ectoplasm: Variable
+Refined Ectoplasm: Variable

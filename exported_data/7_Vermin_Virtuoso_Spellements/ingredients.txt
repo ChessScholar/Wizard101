@@ -1,0 +1,7 @@
+TreasureCard:Rat Illusionist: 1
+Minotaur Idol (Myth): 4
+Moongold Dust: 1
+TreasureCard:Rat Illusionist: Variable
+TreasureCard:Vermin Virtuoso: Variable
+TreasureCard:Rat Illusionist: Variable
+TreasureCard:Vermin Virtuoso: Variable

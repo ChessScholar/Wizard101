@@ -1,0 +1,6 @@
+Mist Wood: 10
+Stone Block: 10
+Mist Wood: Variable
+Refined Mist Wood: Variable
+Mist Wood: Variable
+Refined Mist Wood: Variable

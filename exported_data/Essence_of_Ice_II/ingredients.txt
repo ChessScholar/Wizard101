@@ -1,0 +1,3 @@
+Ice Rune: 15
+Enhanced Ice Rune: 3
+Superior Ice Rune: 1

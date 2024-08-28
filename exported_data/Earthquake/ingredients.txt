@@ -1,0 +1,11 @@
+TreasureCard:Humongofrog: 1
+TreasureCard:Minotaur: 1
+Peridot: 4
+Ghost Fire: 2
+Black Lotus: 8
+Blood Moss: 2
+Mist Wood: 12
+Black Lotus: Variable
+Refined Black Lotus: Variable
+Black Lotus: Variable
+Refined Black Lotus: Variable

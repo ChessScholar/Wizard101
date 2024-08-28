@@ -1,0 +1,3 @@
+Alchemical Extract: 180
+Alchemical Salts: 30
+Alchemical Crystals: 3

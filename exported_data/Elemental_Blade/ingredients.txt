@@ -1,0 +1,7 @@
+TreasureCard:Balanceblade: 1
+Sapphire: 1
+Ruby: 1
+Amethyst: 1
+Parchment: 6
+Spring: 3
+Stone Block: 8

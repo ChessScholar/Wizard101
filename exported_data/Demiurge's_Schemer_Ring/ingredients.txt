@@ -1,0 +1,20 @@
+Malevolent Balance Ring: 1
+Perfect Citrine: 60
+Synthonium: 20
+Old One Artifacts: 50
+TreasureCard:Nested Fury: 3
+Malevolent Balance Ring: Variable
+Malevolent Death Ring: Variable
+Malevolent Fire Ring: Variable
+Malevolent Ice Ring: Variable
+Malevolent Balance Ring: Variable
+Malevolent Death Ring: Variable
+Malevolent Fire Ring: Variable
+Malevolent Ice Ring: Variable
+Malevolent Life Ring: Variable
+Malevolent Myth Ring: Variable
+Malevolent Storm Ring: Variable
+Malevolent Life Ring: Variable
+Malevolent Myth Ring: Variable
+Malevolent Power Ring (page does not exist): Variable
+Malevolent Storm Ring: Variable

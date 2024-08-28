@@ -1,0 +1,8 @@
+Ares' Spear of Honor: 1
+TreasureCard:Ra: 5
+TreasureCard:Hydra: 6
+Braided Vine: 3
+Stone Block: 10
+Sandstone: 6
+Scrap Iron: 6
+Nightshade: 6

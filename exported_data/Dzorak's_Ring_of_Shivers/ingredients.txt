@@ -1,0 +1,8 @@
+Perfect Sapphire: 25
+Golden Pearl: 5
+Blood Moss: 10
+Astral Shard: 4
+Sunstone: 3
+Aether: 3
+TreasureCard:Volcanic Shield: 20
+Aether: 6

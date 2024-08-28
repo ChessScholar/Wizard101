@@ -1,0 +1,3 @@
+Flawless Ruby: 10
+Cobalt: 5
+TreasureCard:Wyldfire: 3

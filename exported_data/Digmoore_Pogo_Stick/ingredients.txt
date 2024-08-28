@@ -1,0 +1,12 @@
+TreasureCard:Clockwork Spider: 10
+Fish:Brain Sturgeon: 10
+Sonic Spring: 1
+House:Silver Trumpet Vine: 10
+Scrap Iron: 25
+Spring: 25
+Bronze Gear: 15
+Leather Straps: 10
+Bronze Gear: Variable
+Refined Bronze Gear: Variable
+Bronze Gear: Variable
+Refined Bronze Gear: Variable

@@ -1,0 +1,10 @@
+TreasureCard:Dark Sprite: 1
+Black Coal: 2
+Simple Vial: 2
+Deep Mushroom: 8
+Red Mandrake: 1
+Bone: 24
+Deep Mushroom: Variable
+Refined Deep Mushroom: Variable
+Deep Mushroom: Variable
+Refined Deep Mushroom: Variable

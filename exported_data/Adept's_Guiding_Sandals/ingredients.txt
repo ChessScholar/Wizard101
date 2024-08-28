@@ -1,0 +1,8 @@
+Senator's Guiding Sandals: 1
+TreasureCard:Centaur: 5
+Crystal Vial: 20
+Black Pearl: 5
+Blood Moss: 25
+Ore: 15
+Water Lily: 20
+Deep Mushroom: 10

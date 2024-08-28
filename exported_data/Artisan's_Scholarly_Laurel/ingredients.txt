@@ -1,0 +1,8 @@
+Senator's Scholarly Laurel: 1
+TreasureCard:Medusa: 3
+TreasureCard:Earthquake: 2
+Braided Vine: 2
+Grendelweed: 5
+Golden Pearl: 5
+Scrap Iron: 6
+Nightshade: 6

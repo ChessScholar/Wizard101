@@ -1,0 +1,3 @@
+TreasureCard:Fire Cat: 1
+Simple Vial: 2
+Amethyst: 4

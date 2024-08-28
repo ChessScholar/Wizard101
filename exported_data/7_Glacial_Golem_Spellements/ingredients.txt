@@ -1,0 +1,9 @@
+TreasureCard:Firegut (380-418): 1
+Minotaur Idol (Fire): 4
+Moongold Dust: 1
+TreasureCard:Firegut (350): Variable
+TreasureCard:Firegut (380-418): Variable
+TreasureCard:Glacial Golem: Variable
+TreasureCard:Firegut (350): Variable
+TreasureCard:Firegut (380-418): Variable
+TreasureCard:Glacial Golem: Variable

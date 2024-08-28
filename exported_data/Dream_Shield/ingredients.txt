@@ -1,0 +1,6 @@
+TreasureCard:Death Shield: 2
+Jade: 1
+Peridot: 1
+Black Coal: 1
+Stone Block: 4
+Ectoplasm: 2

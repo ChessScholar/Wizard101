@@ -1,0 +1,23 @@
+Immutable Zanadu Boots: 1
+Perfect Citrine: 30
+Shocked Key: 20
+Pure Aethyr: 3
+Aethyr Dust: 75
+Astral Shard: 15
+Aethyr Ore: 25
+Hopeful Zanadu Boots: Variable
+File:(Item) Crackling Zanadu Boots Male.png: Variable
+Illuminated Zanadu Boots: Variable
+File:(Item) Freezing Zanadu Boots Male.png: Variable
+Hopeful Zanadu Boots: Variable
+Crackling Zanadu Boots: Variable
+Illuminated Zanadu Boots: Variable
+Freezing Zanadu Boots: Variable
+Verdant Zanadu Boots: Variable
+Immutable Zanadu Boots: Variable
+Blazing Zanadu Boots: Variable
+File:(Item) Grim Zanadu Boots Male.png: Variable
+Verdant Zanadu Boots: Variable
+Immutable Zanadu Boots: Variable
+Blazing Zanadu Boots: Variable
+Grim Zanadu Boots: Variable

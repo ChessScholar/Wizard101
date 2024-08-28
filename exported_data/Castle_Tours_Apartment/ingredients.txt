@@ -1,0 +1,8 @@
+Blueprint Token: 64
+Mist Wood: 40
+Sandstone: 10
+Opal: 10
+Leather Straps: 10
+Sunstone: 5
+Ruby: 10
+Amber: 1

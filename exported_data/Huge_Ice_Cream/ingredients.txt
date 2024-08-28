@@ -1,0 +1,3 @@
+TreasureCard:Ghoul: 1
+Simple Vial: 2
+Amethyst: 4

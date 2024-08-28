@@ -1,0 +1,4 @@
+TreasureCard:Fire Wyvern (270-320): 1
+Fire Rune: 4
+Enhanced Fire Rune: 1
+Superior Fire Rune: 1

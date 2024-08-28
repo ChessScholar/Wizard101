@@ -1,0 +1,8 @@
+TreasureCard:Extraordinary: 1
+TreasureCard:Forest Lord: 1
+Black Coal: 25
+Agave Nectar: 5
+Parchment: 20
+Ore: 10
+Nightshade: 5
+Turquoise: 4

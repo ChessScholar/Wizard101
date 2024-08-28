@@ -1,0 +1,8 @@
+TreasureCard:Loremaster: 3
+Stardust: 2
+TreasureCard:Skeletal Pirate: 20
+Astral Shard: 5
+Aether: 12
+Blood Moss: 15
+TreasureCard:Fortify: 4
+TreasureCard:Avenging Fossil: 4

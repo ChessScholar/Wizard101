@@ -1,0 +1,9 @@
+Ghost Fire: 4
+Pristine Vial: 7
+Frost Flower: 14
+Black Lotus: 11
+Spring: 9
+Black Lotus: Variable
+Refined Black Lotus: Variable
+Black Lotus: Variable
+Refined Black Lotus: Variable

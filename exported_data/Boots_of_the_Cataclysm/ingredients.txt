@@ -1,0 +1,11 @@
+Astral Shard: 5
+TreasureCard:Plague: 2
+Comet Tail: 25
+Pearl: 20
+Black Lotus: 20
+TreasureCard:Lord of Night: 2
+TreasureCard:Conviction: 4
+Black Lotus: Variable
+Refined Black Lotus: Variable
+Black Lotus: Variable
+Refined Black Lotus: Variable

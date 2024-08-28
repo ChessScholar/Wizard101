@@ -1,0 +1,7 @@
+Ghost Fire: 4
+Pristine Vial: 5
+Sunstone: 7
+Aether: 10
+Kelp: 13
+Pearl: 10
+Fire Blossom: 12

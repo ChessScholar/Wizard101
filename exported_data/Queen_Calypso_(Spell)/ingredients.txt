@@ -1,0 +1,12 @@
+TreasureCard:Queen Calypso: 10
+Perfect Onyx: 120
+Ghost Fire: 200
+Blood Moss: 120
+Bone: 120
+Spring: 60
+Sunstone: 60
+Amber: 18
+Bone: Variable
+Refined Bone: Variable
+Bone: Variable
+Refined Bone: Variable

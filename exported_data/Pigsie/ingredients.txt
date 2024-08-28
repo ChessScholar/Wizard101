@@ -1,0 +1,8 @@
+TreasureCard:Pigsie: 10
+Perfect Jade: 120
+Citrine: 200
+Shell: 60
+Astral Shard: 50
+Golden Pearl: 150
+Kelp: 220
+Amber: 25

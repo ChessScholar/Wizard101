@@ -1,0 +1,4 @@
+Sapphire: 1
+Black Coal: 1
+Ore: 4
+Mist Wood: 2

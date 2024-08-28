@@ -1,0 +1,5 @@
+TreasureCard:Efreet: 1
+Ghost Fire: 8
+Pristine Vial: 9
+Fire Blossom: 15
+Leather Straps: 12

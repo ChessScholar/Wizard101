@@ -1,0 +1,21 @@
+Wunderbar Sciencer Cap: 1
+Perfect Amethyst: 60
+Karamelle Chunk: 20
+Pretzel Sticks: 50
+TreasureCard:Rusalka's Wrath: 5
+Wunderbar Artisan Cap: Variable
+Wunderbar Candymancer Cap: Variable
+Wunderbar Dreamsearcher Cap: Variable
+Wunderbar Freshbaker Cap: Variable
+Wunderbar Artisan Cap: Variable
+Wunderbar Candymancer Cap: Variable
+Wunderbar Dreamsearcher Cap: Variable
+Wunderbar Freshbaker Cap: Variable
+Wunderbar Sciencer Cap: Variable
+Wunderbar Sentamentalist Cap: Variable
+Wunderbar Sweetsmith Cap: Variable
+Wunderbar Wonderneer Cap: Variable
+Wunderbar Sciencer Cap: Variable
+Wunderbar Sentamentalist Cap: Variable
+Wunderbar Sweetsmith Cap: Variable
+Wunderbar Wonderneer Cap: Variable

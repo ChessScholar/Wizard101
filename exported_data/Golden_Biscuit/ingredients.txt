@@ -1,0 +1,3 @@
+TreasureCard:Leprechaun: 1
+Simple Vial: 2
+Shadow Oil: 3

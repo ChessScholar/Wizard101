@@ -1,0 +1,8 @@
+TreasureCard:Krampus: 6
+Perfect Ruby: 100
+Ghost Fire: 200
+Black Pearl: 50
+Black Coal: 100
+Astral Shard: 50
+Sunstone: 50
+Amber: 12

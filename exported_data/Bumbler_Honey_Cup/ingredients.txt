@@ -1,0 +1,6 @@
+Ectoplasm: 25
+Perfect Sapphire: 20
+Comet Tail: 12
+Astral Shard: 6
+Fire Blossom: 5
+Scales: 4

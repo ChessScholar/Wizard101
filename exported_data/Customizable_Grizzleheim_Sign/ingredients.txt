@@ -1,0 +1,11 @@
+TreasureCard:Storm Lord: 5
+Perfect Peridot: 1
+Pristine Vial: 1
+Golden Pearl: 3
+Sunstone: 4
+Black Lotus: 6
+Ancient Scroll: 19
+Black Lotus: Variable
+Refined Black Lotus: Variable
+Black Lotus: Variable
+Refined Black Lotus: Variable

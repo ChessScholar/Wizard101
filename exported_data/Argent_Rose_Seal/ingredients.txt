@@ -1,0 +1,11 @@
+TreasureCard:Gargantuan: 1
+TreasureCard:Empowerment: 1
+Ghost Fire: 10
+Pristine Vial: 10
+Ancient Scroll: 16
+Bronze Gear: 13
+Ectoplasm: 12
+Bronze Gear: Variable
+Refined Bronze Gear: Variable
+Bronze Gear: Variable
+Refined Bronze Gear: Variable

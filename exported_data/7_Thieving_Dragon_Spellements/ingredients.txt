@@ -1,0 +1,7 @@
+TreasureCard:Frost Dragon: 1
+Colossus Idol (Ice): 4
+Moongold Dust: 1
+TreasureCard:Frost Dragon: Variable
+TreasureCard:Thieving Dragon: Variable
+TreasureCard:Frost Dragon: Variable
+TreasureCard:Thieving Dragon: Variable

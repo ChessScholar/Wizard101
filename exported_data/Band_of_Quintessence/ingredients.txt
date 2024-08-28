@@ -1,0 +1,8 @@
+Peridot: 5
+Ghost Fire: 2
+Mist Wood: 10
+Bone: 8
+Bone: Variable
+Refined Bone: Variable
+Bone: Variable
+Refined Bone: Variable

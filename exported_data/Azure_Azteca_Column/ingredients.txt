@@ -1,0 +1,5 @@
+Perfect Sapphire: 20
+Sandstone: 5
+Stone Block: 8
+Fossil: 2
+Turquoise: 5

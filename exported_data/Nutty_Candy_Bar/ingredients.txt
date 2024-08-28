@@ -1,0 +1,7 @@
+Bronze Gear: 2
+Simple Vial: 1
+Shadow Oil: 1
+Bronze Gear: Variable
+Refined Bronze Gear: Variable
+Bronze Gear: Variable
+Refined Bronze Gear: Variable

@@ -1,0 +1,7 @@
+TreasureCard:Gargantuan: 5
+Perfect Sapphire: 5
+Pristine Vial: 5
+Sunstone: 4
+Golden Pearl: 8
+Fish Fin: 8
+Shell: 14

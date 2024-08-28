@@ -1,0 +1,7 @@
+Pretzel Sticks: 150
+Toffee Bean: 50
+Mist Wood: 100
+Stone Block: 50
+Iron: 150
+Lead: 40
+Perfect Hematite: 35

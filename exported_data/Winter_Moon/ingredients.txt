@@ -1,0 +1,8 @@
+TreasureCard:Winter Moon: 6
+Perfect Amethyst: 100
+Ghost Fire: 200
+Grendelweed: 50
+Turquoise: 25
+Scrap Iron: 50
+Sunstone: 25
+Amber: 12

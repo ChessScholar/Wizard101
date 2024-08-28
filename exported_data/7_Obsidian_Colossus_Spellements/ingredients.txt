@@ -1,0 +1,7 @@
+TreasureCard:Obsidian Colossus (420): 1
+Cyclops Idol (Balance): 4
+Moongold Dust: 1
+TreasureCard:Obsidian Colossus: Variable
+TreasureCard:Obsidian Colossus (420): Variable
+TreasureCard:Obsidian Colossus: Variable
+TreasureCard:Obsidian Colossus (420): Variable

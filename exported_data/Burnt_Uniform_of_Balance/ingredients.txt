@@ -1,0 +1,7 @@
+TreasureCard:Phoenix: 4
+Perfect Ruby: 5
+Pristine Vial: 4
+Aether: 6
+Aquamarine: 10
+Kelp: 20
+Spring: 16

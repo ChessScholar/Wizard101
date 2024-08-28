@@ -1,0 +1,7 @@
+Black Coal: 3
+Simple Vial: 1
+Deep Mushroom: 6
+Deep Mushroom: Variable
+Refined Deep Mushroom: Variable
+Deep Mushroom: Variable
+Refined Deep Mushroom: Variable

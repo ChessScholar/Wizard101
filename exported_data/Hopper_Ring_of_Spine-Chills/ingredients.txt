@@ -1,0 +1,8 @@
+Perfect Sapphire: 25
+Golden Pearl: 5
+Blood Moss: 10
+Astral Shard: 3
+Spider Silk: 12
+Vine: 1
+TreasureCard:Evil Snowman: 20
+Stone Block: 15

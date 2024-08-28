@@ -1,0 +1,7 @@
+TreasureCard:Mutate Minotaur (Sun): 5
+Perfect Peridot: 6
+Pristine Vial: 5
+Sunstone: 5
+Golden Pearl: 9
+Fish Fin: 8
+Sandstone: 10

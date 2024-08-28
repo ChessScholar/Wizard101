@@ -1,0 +1,7 @@
+Peridot: 2
+Deep Mushroom: 4
+Cat Tail: 6
+Cat Tail: Variable
+Refined Cat Tail: Variable
+Cat Tail: Variable
+Refined Cat Tail: Variable

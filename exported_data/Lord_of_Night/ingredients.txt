@@ -1,0 +1,8 @@
+TreasureCard:Lord of Night: 6
+Perfect Onyx: 100
+Ghost Fire: 200
+Nightshade: 50
+Turquoise: 25
+Scrap Iron: 50
+Sunstone: 25
+Amber: 12

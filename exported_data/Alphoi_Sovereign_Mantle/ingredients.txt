@@ -1,0 +1,22 @@
+Interstellar Officer's Helm: 1
+Perfect Opal: 20
+Leather Straps: 75
+Aethyr Dust: 25
+Kelp: 150
+Spider Silk: 125
+Interstellar Delegate's Helm: Variable
+Interstellar Engineer Helm: Variable
+Interstellar Explorer's Helm: Variable
+Interstellar Hero's Helm: Variable
+Interstellar Delegate's Helm: Variable
+Interstellar Engineer Helm: Variable
+Interstellar Explorer's Helm: Variable
+Interstellar Hero's Helm: Variable
+Interstellar Navigator Helm: Variable
+Interstellar Officer's Helm: Variable
+Interstellar Warrior Helm: Variable
+Medic's Interstellar Helm: Variable
+Interstellar Navigator Helm: Variable
+Interstellar Officer's Helm: Variable
+Interstellar Warrior Helm: Variable
+Medic's Interstellar Helm: Variable

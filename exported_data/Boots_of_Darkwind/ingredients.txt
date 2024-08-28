@@ -1,0 +1,10 @@
+TreasureCard:Triton: 2
+Perfect Amethyst: 6
+Pristine Vial: 4
+Lava Lily: 22
+Black Lotus: 12
+Scales: 9
+Black Lotus: Variable
+Refined Black Lotus: Variable
+Black Lotus: Variable
+Refined Black Lotus: Variable

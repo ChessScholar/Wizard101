@@ -1,0 +1,7 @@
+Astral Shard: 5
+TreasureCard:Keeper of the Flame: 1
+Comet Tail: 20
+TreasureCard:Catalan: 1
+Leather Straps: 25
+Shadow Oil: 4
+TreasureCard:Reliquary: 1

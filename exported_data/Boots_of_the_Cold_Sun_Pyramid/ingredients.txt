@@ -1,0 +1,8 @@
+TreasureCard:Forest Lord: 1
+TreasureCard:Colossus: 3
+TreasureCard:Fortify: 5
+Agave Leaves: 10
+Fossil: 4
+Scales: 20
+Spider Silk: 25
+Turquoise: 5

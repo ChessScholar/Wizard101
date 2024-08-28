@@ -1,0 +1,10 @@
+TreasureCard:Colossal: 1
+TreasureCard:Sirens: 3
+Perfect Amethyst: 15
+Golden Pearl: 3
+Black Lotus: 20
+Turquoise: 4
+Black Lotus: Variable
+Refined Black Lotus: Variable
+Black Lotus: Variable
+Refined Black Lotus: Variable

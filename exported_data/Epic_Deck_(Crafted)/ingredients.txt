@@ -1,0 +1,7 @@
+TreasureCard:Minotaur: 6
+Perfect Peridot: 5
+Pristine Vial: 5
+Sunstone: 5
+Aquamarine: 11
+Scales: 13
+Water Lily: 19

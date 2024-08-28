@@ -1,0 +1,7 @@
+Ore: 5
+Simple Vial: 1
+Black Coal: 3
+Ore: Variable
+Refined Ore: Variable
+Ore: Variable
+Refined Ore: Variable

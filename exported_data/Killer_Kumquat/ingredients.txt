@@ -1,0 +1,3 @@
+TreasureCard:Draw Power: 3
+Fish:Ninja Fish: 6
+Perfect Peridot: 5

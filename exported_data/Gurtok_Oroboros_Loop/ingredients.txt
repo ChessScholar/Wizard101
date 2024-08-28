@@ -1,0 +1,17 @@
+Gurtok Oroboros Coil: 9
+Claw: 40
+Lava Lily: 20
+Gurtok Ignus Coil: Variable
+Gurtok Celsius Coil: Variable
+Gurtok Fulgis Coil: Variable
+Gurtok Apotheosis Coil: Variable
+Gurtok Ignus Coil: Variable
+Gurtok Celsius Coil: Variable
+Gurtok Fulgis Coil: Variable
+Gurtok Apotheosis Coil: Variable
+Gurtok Vivus Coil: Variable
+Gurtok Mortis Coil: Variable
+Gurtok Oroboros Coil: Variable
+Gurtok Vivus Coil: Variable
+Gurtok Mortis Coil: Variable
+Gurtok Oroboros Coil: Variable

@@ -1,0 +1,2 @@
+TreasureCard:Blood Bat: 1
+Myth Rune: 3

@@ -1,0 +1,21 @@
+Malevolent Myth Wand: 1
+Perfect Peridot: 60
+Synthonium: 20
+Old One Artifacts: 50
+TreasureCard:Witch's House Call: 3
+Malevolent Balance Wand: Variable
+Malevolent Death Wand: Variable
+Malevolent Fire Wand: Variable
+Malevolent Ice Wand: Variable
+Malevolent Balance Wand: Variable
+Malevolent Death Wand: Variable
+Malevolent Fire Wand: Variable
+Malevolent Ice Wand: Variable
+Malevolent Life Wand: Variable
+Malevolent Myth Wand: Variable
+Malevolent Power Wand: Variable
+Malevolent Storm Wand: Variable
+Malevolent Life Wand: Variable
+Malevolent Myth Wand: Variable
+Malevolent Power Wand: Variable
+Malevolent Storm Wand: Variable

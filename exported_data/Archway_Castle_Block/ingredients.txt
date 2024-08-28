@@ -1,0 +1,8 @@
+Onyx: 6
+Cat Tail: 4
+Bone: 3
+TreasureCard:Scorpion: 4
+Cat Tail: Variable
+Refined Cat Tail: Variable
+Cat Tail: Variable
+Refined Cat Tail: Variable

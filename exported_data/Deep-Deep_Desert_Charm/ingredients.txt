@@ -1,0 +1,6 @@
+TreasureCard:Vengeance: 4
+TreasureCard:Sabertooth: 3
+Sandstone: 4
+Turquoise: 8
+Stone Block: 20
+Perfect Citrine: 20

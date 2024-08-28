@@ -1,0 +1,11 @@
+TreasureCard:Orthrus: 7
+Perfect Sapphire: 2
+Pristine Vial: 1
+Golden Pearl: 4
+Sunstone: 5
+Black Lotus: 8
+Scrap Iron: 10
+Black Lotus: Variable
+Refined Black Lotus: Variable
+Black Lotus: Variable
+Refined Black Lotus: Variable

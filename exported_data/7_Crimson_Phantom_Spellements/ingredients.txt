@@ -1,0 +1,7 @@
+TreasureCard:Red Ghost: 1
+Cyclops Idol (Death): 4
+Moongold Dust: 1
+TreasureCard:Crimson Phantom: Variable
+TreasureCard:Red Ghost: Variable
+TreasureCard:Crimson Phantom: Variable
+TreasureCard:Red Ghost: Variable

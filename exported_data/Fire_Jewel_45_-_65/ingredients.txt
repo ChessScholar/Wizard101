@@ -1,0 +1,3 @@
+Flawless Ruby: 15
+Bronze: 4
+TreasureCard:Firespear: 4

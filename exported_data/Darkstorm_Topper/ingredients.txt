@@ -1,0 +1,7 @@
+TreasureCard:Skeletal Pirate: 7
+Perfect Onyx: 4
+Pristine Vial: 5
+Golden Pearl: 8
+Aether: 12
+Scales: 13
+Fire Blossom: 4

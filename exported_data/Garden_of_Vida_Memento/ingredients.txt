@@ -1,0 +1,6 @@
+TreasureCard:Fortify: 4
+TreasureCard:Spinysaur: 3
+Grendelweed: 6
+Agave Nectar: 8
+Kelp: 20
+Perfect Jade: 20

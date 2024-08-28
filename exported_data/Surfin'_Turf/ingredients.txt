@@ -1,0 +1,3 @@
+TreasureCard:Poison: 2
+Fish:Boar Fish: 1
+Water Lily: 5

@@ -1,0 +1,8 @@
+TreasureCard:Goat Monk: 10
+Perfect Jade: 100
+Ghost Fire: 200
+Grendelweed: 100
+Fish Fin: 100
+Spring: 50
+Sunstone: 50
+Amber: 12

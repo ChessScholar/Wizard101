@@ -1,0 +1,3 @@
+TreasureCard:Troll: 2
+Glass Vial: 1
+Amethyst: 5

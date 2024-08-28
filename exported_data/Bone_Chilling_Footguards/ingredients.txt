@@ -1,0 +1,7 @@
+TreasureCard:Skeletal Pirate: 6
+Perfect Onyx: 3
+Pristine Vial: 3
+Golden Pearl: 9
+Aether: 11
+Pearl: 14
+Black Pearl: 13

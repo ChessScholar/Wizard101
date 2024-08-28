@@ -1,0 +1,4 @@
+Ghost Fire: 2
+Pristine Vial: 3
+Shell: 8
+Acorn: 10

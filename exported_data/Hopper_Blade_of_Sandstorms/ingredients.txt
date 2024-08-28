@@ -1,0 +1,8 @@
+TreasureCard:Disarm: 4
+Scrap Iron: 5
+Black Pearl: 4
+Perfect Amethyst: 10
+TreasureCard:Balanceblade: 1
+Astral Shard: 3
+TreasureCard:Lightning Bats: 10
+TreasureCard:Stormblade: 1

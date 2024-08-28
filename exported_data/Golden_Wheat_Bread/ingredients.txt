@@ -1,0 +1,3 @@
+TreasureCard:Keen Eyes: 5
+Fish:Blackberry Jellyfish: 1
+Pristine Vial: 4

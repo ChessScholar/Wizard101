@@ -1,0 +1,3 @@
+TreasureCard:Dark Sprite: 2
+Simple Vial: 4
+Black Coal: 9

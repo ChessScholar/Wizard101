@@ -1,0 +1,7 @@
+TreasureCard:Evil Snowman: 1
+TreasureCard:Frost Beetle: 1
+Sapphire: 2
+Shadow Oil: 1
+Parchment: 4
+Spider Silk: 6
+Ore: 8

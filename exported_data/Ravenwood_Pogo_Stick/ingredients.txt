@@ -1,0 +1,8 @@
+TreasureCard:Snow Shield: 15
+Fish:Catfish: 5
+Sonic Spring: 1
+House:Trumpet Vine: 20
+Sapphire: 15
+Scrap Iron: 25
+Spring: 25
+Leather Straps: 10

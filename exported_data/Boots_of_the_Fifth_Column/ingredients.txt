@@ -1,0 +1,7 @@
+Astral Shard: 5
+TreasureCard:Luminous Weaver: 1
+Comet Tail: 20
+TreasureCard:Keeper of the Flame: 1
+Acorn: 25
+Leather Straps: 25
+TreasureCard:Cycle of Life: 1

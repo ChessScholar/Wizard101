@@ -1,0 +1,4 @@
+TreasureCard:Fire Cat: 1
+Black Coal: 3
+Mist Wood: 6
+Red Mandrake: 1

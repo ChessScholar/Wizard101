@@ -1,0 +1,7 @@
+Stone Block: 10
+Cat Tail: 10
+Ore: 10
+Stone Block: Variable
+Refined Stone Block: Variable
+Stone Block: Variable
+Refined Stone Block: Variable

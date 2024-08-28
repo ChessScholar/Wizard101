@@ -1,0 +1,4 @@
+Hatch Pepper: 200
+Glass Vial: 1
+Ruby: 25
+Citrine: 25

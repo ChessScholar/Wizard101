@@ -1,0 +1,8 @@
+TreasureCard:Power Play: 25
+Fish:Balancecuda: 5
+House:Ultra Trumpet Vine: 1
+Mote of Transport: 1
+Perfect Citrine: 25
+Ectoplasm: 5
+Aether: 10
+Parchment: 15

@@ -1,0 +1,6 @@
+TreasureCard:Wraith: 1
+Perfect Onyx: 6
+Pristine Vial: 4
+Fire Blossom: 18
+Pearl: 9
+Fossil: 10

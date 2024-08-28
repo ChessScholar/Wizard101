@@ -1,0 +1,20 @@
+Vanguard's Shocking Ring: 1
+Alchemical Extract: 300
+Alchemical Salts: 50
+Alchemical Crystals: 5
+Dragonspyre Vanguard's Ring: Variable
+Vanguard's Balanced Ring: Variable
+Vanguard's Deadly Ring: Variable
+Vanguard's Fiery Ring: Variable
+Dragonspyre Vanguard's Ring: Variable
+Vanguard's Balanced Ring: Variable
+Vanguard's Deadly Ring: Variable
+Vanguard's Fiery Ring: Variable
+Vanguard's Icy Ring: Variable
+Vanguard's Mythic Ring: Variable
+Vanguard's Shocking Ring: Variable
+Vanguard's Vibrant Ring: Variable
+Vanguard's Icy Ring: Variable
+Vanguard's Mythic Ring: Variable
+Vanguard's Shocking Ring: Variable
+Vanguard's Vibrant Ring: Variable

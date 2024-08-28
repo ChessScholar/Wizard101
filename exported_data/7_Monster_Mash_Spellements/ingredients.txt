@@ -1,0 +1,21 @@
+TreasureCard:Monster Mash: 1
+Cyclops Idol (Death): 4
+Moongold Dust: 1
+Colossus Idol (Death): Variable
+Cyclops Idol (Death): Variable
+Draconian Idol (Death): Variable
+Elf Idol (Death): Variable
+Colossus Idol (Death): Variable
+Cyclops Idol (Death): Variable
+Draconian Idol (Death): Variable
+Elf Idol (Death): Variable
+Fairy Idol (Death): Variable
+Krokomummy Idol (Death): Variable
+Ninja Pig Idol (Death): Variable
+Rat Thief Idol (Death): Variable
+Fairy Idol (Death): Variable
+Krokomummy Idol (Death): Variable
+Ninja Pig Idol (Death): Variable
+Rat Thief Idol (Death): Variable
+Wolf Warrior Idol (Death): Variable
+Wolf Warrior Idol (Death): Variable

@@ -1,0 +1,8 @@
+Ruby: 1
+Black Coal: 1
+Cat Tail: 4
+Mist Wood: 2
+Cat Tail: Variable
+Refined Cat Tail: Variable
+Cat Tail: Variable
+Refined Cat Tail: Variable

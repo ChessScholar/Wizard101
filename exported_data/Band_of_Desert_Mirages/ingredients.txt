@@ -1,0 +1,8 @@
+Perfect Peridot: 25
+Golden Pearl: 5
+Blood Moss: 10
+Astral Shard: 4
+Grendelweed: 4
+Nightshade: 5
+TreasureCard:Ether Shield: 20
+Fossil: 6

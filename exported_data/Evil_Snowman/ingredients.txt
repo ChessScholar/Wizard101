@@ -1,0 +1,4 @@
+TreasureCard:Snow Serpent: 1
+Shadow Oil: 2
+Stone Block: 4
+Ore: 8

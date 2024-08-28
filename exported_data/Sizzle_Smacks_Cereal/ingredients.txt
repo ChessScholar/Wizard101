@@ -1,0 +1,3 @@
+TreasureCard:Fire Elf: 1
+Glass Vial: 1
+Amethyst: 4

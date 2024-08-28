@@ -1,0 +1,4 @@
+Jade: 1
+Glass Vial: 4
+Scrap Iron: 8
+Ore: 10

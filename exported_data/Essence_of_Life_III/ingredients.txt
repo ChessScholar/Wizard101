@@ -1,0 +1,3 @@
+Life Rune: 30
+Enhanced Life Rune: 10
+Superior Life Rune: 2

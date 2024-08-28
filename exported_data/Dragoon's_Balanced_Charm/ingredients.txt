@@ -1,0 +1,20 @@
+Vanguard's Balanced Charm: 1
+Alchemical Extract: 300
+Alchemical Salts: 50
+Alchemical Crystals: 5
+Dragonspyre Vanguard's Charm: Variable
+Vanguard's Balanced Charm: Variable
+Vanguard's Deadly Charm: Variable
+Vanguard's Fiery Charm: Variable
+Dragonspyre Vanguard's Charm: Variable
+Vanguard's Balanced Charm: Variable
+Vanguard's Deadly Charm: Variable
+Vanguard's Fiery Charm: Variable
+Vanguard's Icy Charm: Variable
+Vanguard's Mythic Charm: Variable
+Vanguard's Shocking Charm: Variable
+Vanguard's Vibrant Charm: Variable
+Vanguard's Icy Charm: Variable
+Vanguard's Mythic Charm: Variable
+Vanguard's Shocking Charm: Variable
+Vanguard's Vibrant Charm: Variable

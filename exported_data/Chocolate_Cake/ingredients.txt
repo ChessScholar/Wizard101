@@ -1,0 +1,7 @@
+Bone: 2
+Simple Vial: 1
+Black Coal: 3
+Bone: Variable
+Refined Bone: Variable
+Bone: Variable
+Refined Bone: Variable

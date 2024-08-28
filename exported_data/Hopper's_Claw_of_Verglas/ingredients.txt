@@ -1,0 +1,8 @@
+TreasureCard:Steal Ward: 4
+Aether: 3
+Black Pearl: 4
+Perfect Sapphire: 10
+TreasureCard:Balanceblade: 1
+Astral Shard: 3
+TreasureCard:Snow Serpent: 10
+TreasureCard:Iceblade: 1

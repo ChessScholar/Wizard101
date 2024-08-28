@@ -1,0 +1,8 @@
+Jade: 1
+Simple Vial: 6
+Parchment: 4
+Ore: 6
+Parchment: Variable
+Refined Parchment: Variable
+Parchment: Variable
+Refined Parchment: Variable

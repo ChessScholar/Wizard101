@@ -1,0 +1,11 @@
+TreasureCard:Dark Sprite: 1
+Citrine: 2
+Onyx: 2
+Shadow Oil: 2
+Bone: 8
+Diamond: 1
+Lava Lily: 8
+Bone: Variable
+Refined Bone: Variable
+Bone: Variable
+Refined Bone: Variable

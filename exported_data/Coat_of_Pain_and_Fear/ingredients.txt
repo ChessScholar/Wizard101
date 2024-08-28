@@ -1,0 +1,12 @@
+TreasureCard:Sirens: 1
+TreasureCard:Gargantuan: 2
+TreasureCard:Punishment: 1
+Agave Leaves: 10
+Agave Nectar: 6
+Black Pearl: 4
+Bone: 20
+Turquoise: 4
+Bone: Variable
+Refined Bone: Variable
+Bone: Variable
+Refined Bone: Variable

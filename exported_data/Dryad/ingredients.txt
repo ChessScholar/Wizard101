@@ -1,0 +1,3 @@
+Life Rune: 2
+Myth Rune: 2
+Enhanced Life Rune: 1

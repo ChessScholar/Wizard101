@@ -1,0 +1,6 @@
+TreasureCard:Skeletal Pirate: 4
+Perfect Onyx: 4
+Pristine Vial: 4
+Aether: 16
+Scales: 10
+Fossil: 18

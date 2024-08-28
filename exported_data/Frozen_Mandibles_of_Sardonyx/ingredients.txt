@@ -1,0 +1,8 @@
+TreasureCard:Extraordinary: 2
+Agave Nectar: 4
+Black Pearl: 4
+Sapphire: 20
+Spider Silk: 15
+Astral Shard: 3
+Aquamarine: 10
+TreasureCard:Colossus: 1

@@ -1,0 +1,3 @@
+TreasureCard:Troll Minion: 1
+Myth Rune: 1
+Enhanced Myth Rune: 1

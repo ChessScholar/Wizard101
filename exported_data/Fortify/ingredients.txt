@@ -1,0 +1,4 @@
+Perfect Amethyst: 1
+Scales: 2
+Kelp: 5
+Stone Block: 5

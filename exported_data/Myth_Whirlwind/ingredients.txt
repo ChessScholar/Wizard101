@@ -1,0 +1,8 @@
+TreasureCard:Time of Legend: 25
+Fish:Mythacuda: 5
+House:Ultra Ninja Fig: 1
+Mote of Transport: 1
+Perfect Peridot: 25
+Ectoplasm: 5
+Aether: 10
+Parchment: 15

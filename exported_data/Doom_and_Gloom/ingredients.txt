@@ -1,0 +1,11 @@
+TreasureCard:Dark Sprite: 1
+TreasureCard:Ghoul: 1
+TreasureCard:Banshee: 1
+Shadow Oil: 2
+Leather Straps: 8
+Parchment: 5
+Cat Tail: 10
+Cat Tail: Variable
+Refined Cat Tail: Variable
+Cat Tail: Variable
+Refined Cat Tail: Variable

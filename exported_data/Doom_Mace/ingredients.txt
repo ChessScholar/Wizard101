@@ -1,0 +1,6 @@
+TreasureCard:Steal Charm: 10
+Ghost Fire: 2
+Pristine Vial: 11
+Aquamarine: 6
+Kelp: 14
+Fossil: 12

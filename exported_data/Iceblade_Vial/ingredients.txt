@@ -1,0 +1,6 @@
+TreasureCard:Polymorph Gobbler: 2
+Perfect Sapphire: 3
+Pristine Vial: 4
+Aether: 16
+Shell: 15
+Water Lily: 20

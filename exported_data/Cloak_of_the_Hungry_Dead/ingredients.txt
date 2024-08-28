@@ -1,0 +1,12 @@
+TreasureCard:Wraith: 2
+TreasureCard:Vengeance: 2
+TreasureCard:Furnace: 1
+Agave Leaves: 10
+Agave Nectar: 6
+Black Pearl: 4
+Bone: 15
+Turquoise: 4
+Bone: Variable
+Refined Bone: Variable
+Bone: Variable
+Refined Bone: Variable

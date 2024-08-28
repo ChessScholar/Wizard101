@@ -1,0 +1,21 @@
+Wunderbar Wonderneer Rope: 1
+Perfect Sapphire: 50
+Karamelle Chunk: 8
+Pretzel Sticks: 30
+TreasureCard:Snowball Barrage: 3
+Wunderbar Artisan Rope: Variable
+Wunderbar Candymancer Rope: Variable
+Wunderbar Dreamsearcher Rope: Variable
+Wunderbar Freshbaker Rope: Variable
+Wunderbar Artisan Rope: Variable
+Wunderbar Candymancer Rope: Variable
+Wunderbar Dreamsearcher Rope: Variable
+Wunderbar Freshbaker Rope: Variable
+Wunderbar Sciencer Rope: Variable
+Wunderbar Sentamentalist Rope: Variable
+Wunderbar Sweetsmith Rope: Variable
+Wunderbar Wonderneer Rope: Variable
+Wunderbar Sciencer Rope: Variable
+Wunderbar Sentamentalist Rope: Variable
+Wunderbar Sweetsmith Rope: Variable
+Wunderbar Wonderneer Rope: Variable

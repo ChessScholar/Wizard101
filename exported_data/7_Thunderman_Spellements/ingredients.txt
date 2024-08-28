@@ -1,0 +1,7 @@
+TreasureCard:Jolted Snowman: 1
+Wolf Warrior Idol (Storm): 4
+Moongold Dust: 1
+TreasureCard:Jolted Snowman: Variable
+TreasureCard:Thunderman: Variable
+TreasureCard:Jolted Snowman: Variable
+TreasureCard:Thunderman: Variable

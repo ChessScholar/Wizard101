@@ -1,0 +1,4 @@
+Crystal Vial: 6
+Ore: 5
+Bronze Gear: 10
+Bone: 15

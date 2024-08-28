@@ -1,0 +1,7 @@
+TreasureCard:Gargantuan: 1
+Perfect Sapphire: 1
+Crystal Vial: 1
+Golden Pearl: 2
+Aether: 6
+Acorn: 20
+Fish Fin: 5

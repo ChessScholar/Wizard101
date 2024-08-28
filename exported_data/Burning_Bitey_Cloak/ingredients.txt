@@ -1,0 +1,11 @@
+Perfect Ruby: 12
+Pristine Vial: 7
+Fire Blossom: 15
+Sunstone: 14
+Bronze Gear: 9
+Ectoplasm: 7
+Shell: 5
+Bronze Gear: Variable
+Refined Bronze Gear: Variable
+Bronze Gear: Variable
+Refined Bronze Gear: Variable

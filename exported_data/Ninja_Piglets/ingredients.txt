@@ -1,0 +1,12 @@
+TreasureCard:Ninja Piglets: 10
+Perfect Onyx: 120
+Black Coal: 200
+Black Lotus: 150
+Cobalt: 45
+Iron: 225
+Blood Moss: 25
+Amber: 25
+Black Lotus: Variable
+Refined Black Lotus: Variable
+Black Lotus: Variable
+Refined Black Lotus: Variable

@@ -1,0 +1,7 @@
+TreasureCard:Fire Beetle: 1
+Minotaur Idol (Fire): 4
+Moongold Dust: 1
+TreasureCard:Fire Beetle: Variable
+TreasureCard:Naphtha Scarab: Variable
+TreasureCard:Fire Beetle: Variable
+TreasureCard:Naphtha Scarab: Variable

@@ -1,0 +1,7 @@
+TreasureCard:Hex: 1
+Sapphire: 1
+Ruby: 1
+Amethyst: 1
+Scrap Iron: 8
+Spider Silk: 5
+Mist Wood: 10

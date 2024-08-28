@@ -1,0 +1,8 @@
+TreasureCard:Wyldfire: 25
+Fish:Firecuda: 5
+House:Ultra Helephant Ears: 1
+Mote of Transport: 1
+Perfect Ruby: 25
+Ectoplasm: 5
+Aether: 10
+Parchment: 15

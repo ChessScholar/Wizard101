@@ -1,0 +1,3 @@
+TreasureCard:Dark Sprite: 1
+Glass Vial: 1
+Black Coal: 1

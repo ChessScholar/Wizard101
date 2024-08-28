@@ -1,0 +1,5 @@
+Ore: 15
+Ore: Variable
+Refined Ore: Variable
+Ore: Variable
+Refined Ore: Variable

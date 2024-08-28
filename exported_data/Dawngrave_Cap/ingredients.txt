@@ -1,0 +1,11 @@
+Onyx: 7
+Jade: 6
+Simple Vial: 3
+Bone: 2
+Parchment: 3
+Fossil: 2
+Mist Wood: 4
+Bone: Variable
+Refined Bone: Variable
+Bone: Variable
+Refined Bone: Variable

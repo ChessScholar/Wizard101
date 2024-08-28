@@ -1,0 +1,8 @@
+Senator's Radiant Laurel: 1
+TreasureCard:Phoenix: 2
+Crystal Vial: 20
+Black Pearl: 5
+Blood Moss: 25
+Ore: 30
+Water Lily: 20
+Spring: 20

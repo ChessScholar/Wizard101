@@ -1,0 +1,19 @@
+TreasureCard:Golem: Taunt: 1
+Minotaur Idol (Myth): 4
+Moongold Dust: 1
+Colossus Idol (Myth): Variable
+Draconian Idol (Myth): Variable
+Fairy Idol (Myth): Variable
+Krokomummy Idol (Myth): Variable
+Colossus Idol (Myth): Variable
+Draconian Idol (Myth): Variable
+Fairy Idol (Myth): Variable
+Krokomummy Idol (Myth): Variable
+Minotaur Idol (Myth): Variable
+Ninja Pig Idol (Myth): Variable
+Rat Thief Idol (Myth): Variable
+Wolf Warrior Idol (Myth): Variable
+Minotaur Idol (Myth): Variable
+Ninja Pig Idol (Myth): Variable
+Rat Thief Idol (Myth): Variable
+Wolf Warrior Idol (Myth): Variable

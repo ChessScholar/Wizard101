@@ -1,0 +1,7 @@
+Mist Wood: 20
+Perfect Citrine: 15
+Comet Tail: 11
+Sandstone: 12
+Astral Shard: 9
+Scales: 25
+Stone Block: 15

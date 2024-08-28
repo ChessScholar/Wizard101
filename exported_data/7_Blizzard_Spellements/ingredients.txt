@@ -1,0 +1,21 @@
+TreasureCard:Blizzard: 1
+Colossus Idol (Ice): 4
+Moongold Dust: 1
+Colossus Idol (Ice): Variable
+Cyclops Idol (Ice): Variable
+Draconian Idol (Ice): Variable
+Elf Idol (Ice): Variable
+Colossus Idol (Ice): Variable
+Cyclops Idol (Ice): Variable
+Draconian Idol (Ice): Variable
+Elf Idol (Ice): Variable
+Fairy Idol (Ice): Variable
+Krokomummy Idol (Ice): Variable
+Minotaur Idol (Ice): Variable
+Ninja Pig Idol (Ice): Variable
+Fairy Idol (Ice): Variable
+Krokomummy Idol (Ice): Variable
+Minotaur Idol (Ice): Variable
+Ninja Pig Idol (Ice): Variable
+Wolf Warrior Idol (Ice): Variable
+Wolf Warrior Idol (Ice): Variable

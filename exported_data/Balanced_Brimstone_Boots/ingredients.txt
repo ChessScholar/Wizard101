@@ -1,0 +1,7 @@
+TreasureCard:Hydra: 4
+Perfect Citrine: 3
+Pristine Vial: 3
+Golden Pearl: 8
+Aether: 11
+Pearl: 14
+Black Pearl: 12

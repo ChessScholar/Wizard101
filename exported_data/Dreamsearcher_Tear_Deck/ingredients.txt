@@ -1,0 +1,21 @@
+Wunderbar Dreamsearcher Box: 1
+Perfect Citrine: 50
+Karamelle Chunk: 8
+Pretzel Sticks: 30
+TreasureCard:Nested Fury: 3
+Wunderbar Artisan Box: Variable
+Wunderbar Candymancer Box: Variable
+Wunderbar Dreamsearcher Box: Variable
+Wunderbar Freshbaker Box: Variable
+Wunderbar Artisan Box: Variable
+Wunderbar Candymancer Box: Variable
+Wunderbar Dreamsearcher Box: Variable
+Wunderbar Freshbaker Box: Variable
+Wunderbar Sciencer Box: Variable
+Wunderbar Sentamentalist Box: Variable
+Wunderbar Sweetsmith Box: Variable
+Wunderbar Wonderneer Box: Variable
+Wunderbar Sciencer Box: Variable
+Wunderbar Sentamentalist Box: Variable
+Wunderbar Sweetsmith Box: Variable
+Wunderbar Wonderneer Box: Variable

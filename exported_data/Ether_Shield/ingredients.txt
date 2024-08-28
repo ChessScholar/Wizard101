@@ -1,0 +1,10 @@
+TreasureCard:Myth Shield: 2
+Onyx: 1
+Jade: 1
+Black Coal: 1
+Stone Block: 4
+Bone: 2
+Bone: Variable
+Refined Bone: Variable
+Bone: Variable
+Refined Bone: Variable

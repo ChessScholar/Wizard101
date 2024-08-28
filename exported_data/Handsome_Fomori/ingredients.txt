@@ -1,0 +1,8 @@
+TreasureCard:Handsome Fomori: 6
+Perfect Sapphire: 100
+Ghost Fire: 200
+Diamond: 100
+Spider Silk: 100
+Spring: 50
+Sunstone: 50
+Amber: 12

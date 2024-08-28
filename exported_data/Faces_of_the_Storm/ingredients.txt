@@ -1,0 +1,8 @@
+TreasureCard:Windstorm: 2
+TreasureCard:Mend: 2
+Amber: 2
+Braided Vine: 3
+Ancient Scroll: 25
+Black Pearl: 8
+Agave Nectar: 6
+Turquoise: 2

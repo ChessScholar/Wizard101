@@ -1,0 +1,4 @@
+Hatch Pepper: 25
+Glass Vial: 1
+Opal: 25
+Onyx: 25

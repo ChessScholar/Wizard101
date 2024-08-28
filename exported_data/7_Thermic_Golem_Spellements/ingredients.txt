@@ -1,0 +1,7 @@
+TreasureCard:Rocketstove: 1
+Wolf Warrior Idol (Storm): 4
+Moongold Dust: 1
+TreasureCard:Rocketstove: Variable
+TreasureCard:Thermic Golem: Variable
+TreasureCard:Rocketstove: Variable
+TreasureCard:Thermic Golem: Variable

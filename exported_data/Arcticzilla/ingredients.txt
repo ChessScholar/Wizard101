@@ -1,0 +1,3 @@
+TreasureCard:Ice Bats: 1
+Ice Rune: 2
+Enhanced Ice Rune: 1

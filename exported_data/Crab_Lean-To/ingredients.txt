@@ -1,0 +1,11 @@
+TreasureCard:Monstrous: 1
+Perfect Onyx: 1
+Crystal Vial: 1
+Sunstone: 2
+Kelp: 6
+Black Lotus: 10
+Fish Fin: 6
+Black Lotus: Variable
+Refined Black Lotus: Variable
+Black Lotus: Variable
+Refined Black Lotus: Variable

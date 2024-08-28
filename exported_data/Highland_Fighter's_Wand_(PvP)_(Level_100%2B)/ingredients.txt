@@ -1,0 +1,10 @@
+Bronze Medal: 30
+Harmonious Medal: 12
+Balance Medal: 3
+Epic Medal: 1
+Elemental Medal: Variable
+Harmonious Medal: Variable
+Spiritual Medal: Variable
+Elemental Medal: Variable
+Harmonious Medal: Variable
+Spiritual Medal: Variable

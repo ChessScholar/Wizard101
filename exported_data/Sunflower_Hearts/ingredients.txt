@@ -1,0 +1,3 @@
+TreasureCard:Steal Health: 2
+Fish:Sun Ray: 7
+Perfect Ruby: 5

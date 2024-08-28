@@ -1,0 +1,5 @@
+Ghost Fire: 4
+Pristine Vial: 7
+Sunstone: 6
+Fish Fin: 18
+Spring: 16

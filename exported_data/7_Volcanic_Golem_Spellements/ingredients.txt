@@ -1,0 +1,7 @@
+TreasureCard:Coldiron: 1
+Colossus Idol (Ice): 4
+Moongold Dust: 1
+TreasureCard:Coldiron: Variable
+TreasureCard:Volcanic Golem: Variable
+TreasureCard:Coldiron: Variable
+TreasureCard:Volcanic Golem: Variable

@@ -1,0 +1,8 @@
+Ares' Spear of Valor: 1
+TreasureCard:Donate Power: 6
+Crystal Vial: 20
+Black Pearl: 7
+Ore: 15
+Water Lily: 30
+Blood Moss: 25
+Red Mandrake: 20

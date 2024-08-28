@@ -1,0 +1,2 @@
+TreasureCard:Pixie: 1
+Life Rune: 2

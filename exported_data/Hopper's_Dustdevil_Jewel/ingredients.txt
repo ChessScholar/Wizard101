@@ -1,0 +1,6 @@
+TreasureCard:Colossal: 1
+TreasureCard:Storm Owl: 3
+Scrap Iron: 5
+Turquoise: 8
+Water Lily: 20
+Perfect Amethyst: 20

@@ -1,0 +1,8 @@
+Perfect Amethyst: 5
+Black Pearl: 12
+Fish Fin: 8
+TreasureCard:Humongofrog: 2
+Fish Fin: Variable
+Refined Fish Fin: Variable
+Fish Fin: Variable
+Refined Fish Fin: Variable

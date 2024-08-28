@@ -1,0 +1,5 @@
+Ghost Fire: 4
+Pristine Vial: 5
+Aether: 8
+Shell: 16
+Water Lily: 12

@@ -1,0 +1,9 @@
+TreasureCard:Franklinstove (390-430): 1
+Cyclops Idol (Balance): 4
+Moongold Dust: 1
+TreasureCard:Elemental Golem: Variable
+TreasureCard:Franklinstove (350): Variable
+TreasureCard:Franklinstove (390-430): Variable
+TreasureCard:Elemental Golem: Variable
+TreasureCard:Franklinstove (350): Variable
+TreasureCard:Franklinstove (390-430): Variable

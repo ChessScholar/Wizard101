@@ -1,0 +1,5 @@
+TreasureCard:Snow Serpent: 1
+Onyx: 1
+Sapphire: 1
+Mist Wood: 6
+Ore: 4

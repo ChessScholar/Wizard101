@@ -1,0 +1,5 @@
+Ghost Fire: 5
+Pristine Vial: 6
+Aether: 8
+Shell: 16
+Spring: 12

@@ -1,0 +1,3 @@
+Perfect Citrine: 15
+Orichalcum: 7
+TreasureCard:Unbalance: 5

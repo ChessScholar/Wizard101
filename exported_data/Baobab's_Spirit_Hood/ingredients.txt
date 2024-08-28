@@ -1,0 +1,7 @@
+TreasureCard:Spirit Blade: 1
+Perfect Citrine: 11
+Pristine Vial: 6
+Acorn: 17
+Black Pearl: 15
+Golden Pearl: 10
+Scales: 15

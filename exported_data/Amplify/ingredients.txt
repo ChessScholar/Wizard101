@@ -1,0 +1,4 @@
+Perfect Jade: 1
+Fish Fin: 2
+Kelp: 5
+Scrap Iron: 5

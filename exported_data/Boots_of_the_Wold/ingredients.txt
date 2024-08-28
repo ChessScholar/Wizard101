@@ -1,0 +1,12 @@
+TreasureCard:Legion Shield: 1
+Perfect Onyx: 10
+Pristine Vial: 6
+Blood Moss: 13
+Black Pearl: 11
+Golden Pearl: 9
+Sunstone: 3
+Bone: 12
+Bone: Variable
+Refined Bone: Variable
+Bone: Variable
+Refined Bone: Variable

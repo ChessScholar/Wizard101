@@ -1,0 +1,6 @@
+TreasureCard:Earthquake: 2
+Perfect Peridot: 9
+Pristine Vial: 5
+Frost Flower: 15
+Fish Fin: 18
+Spring: 7

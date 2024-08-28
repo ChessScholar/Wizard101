@@ -1,0 +1,8 @@
+TreasureCard:Chimera: 1
+TreasureCard:Vengeance: 4
+Pristine Vial: 20
+Perfect Onyx: 25
+Grendelweed: 10
+Agave Nectar: 5
+Fossil: 4
+Scales: 20

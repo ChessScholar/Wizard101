@@ -1,0 +1,21 @@
+Wunderbar Artisan Boots: 1
+Perfect Peridot: 60
+Karamelle Chunk: 20
+Pretzel Sticks: 50
+TreasureCard:Witch's House Call: 5
+Wunderbar Artisan Boots: Variable
+Wunderbar Candymancer Boots: Variable
+Wunderbar Dreamsearcher Boots: Variable
+Wunderbar Freshbaker Boots: Variable
+Wunderbar Artisan Boots: Variable
+Wunderbar Candymancer Boots: Variable
+Wunderbar Dreamsearcher Boots: Variable
+Wunderbar Freshbaker Boots: Variable
+Wunderbar Sciencer Boots: Variable
+Wunderbar Sentamentalist Boots: Variable
+Wunderbar Sweetsmith Boots: Variable
+Wunderbar Wonderneer Boots: Variable
+Wunderbar Sciencer Boots: Variable
+Wunderbar Sentamentalist Boots: Variable
+Wunderbar Sweetsmith Boots: Variable
+Wunderbar Wonderneer Boots: Variable

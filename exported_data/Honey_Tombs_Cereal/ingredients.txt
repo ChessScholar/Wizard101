@@ -1,0 +1,3 @@
+TreasureCard:Scorpion: 1
+Glass Vial: 1
+Amethyst: 4

@@ -1,0 +1,3 @@
+TreasureCard:Mend: 2
+Fish:Strawberry Jellyfish: 7
+Perfect Citrine: 5

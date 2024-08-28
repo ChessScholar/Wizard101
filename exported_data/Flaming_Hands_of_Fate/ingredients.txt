@@ -1,0 +1,8 @@
+Elemental Hands of Fate: 1
+Augmentation Rune: 10
+Improvement Rune: 10
+Strengthening Rune: 10
+Ultimate Rune (Rank 4): 12
+Fire Rune: 110
+Enhanced Fire Rune: 35
+Superior Fire Rune: 15

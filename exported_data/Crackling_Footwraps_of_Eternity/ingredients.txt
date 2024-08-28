@@ -1,0 +1,11 @@
+TreasureCard:Lightning Bats: 4
+Onyx: 11
+Glass Vial: 3
+Ectoplasm: 4
+Cat Tail: 5
+Acorn: 4
+Deep Mushroom: 5
+Cat Tail: Variable
+Refined Cat Tail: Variable
+Cat Tail: Variable
+Refined Cat Tail: Variable

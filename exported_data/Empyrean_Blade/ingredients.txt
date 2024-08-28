@@ -1,0 +1,8 @@
+Citrine: 4
+Glass Vial: 5
+Black Lotus: 10
+Cat Tail: 15
+Black Lotus: Variable
+Refined Black Lotus: Variable
+Black Lotus: Variable
+Refined Black Lotus: Variable

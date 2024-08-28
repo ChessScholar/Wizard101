@@ -1,0 +1,2 @@
+Fish:Sword Stone Fish: 1
+Fish:Grape Jellyfish: 1

@@ -1,0 +1,5 @@
+Peridot: 3
+Black Coal: 1
+Sandstone: 3
+Sunstone: 1
+Scales: 2

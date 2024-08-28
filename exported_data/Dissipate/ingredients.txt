@@ -1,0 +1,5 @@
+TreasureCard:Blood Bat: 1
+Peridot: 2
+Shadow Oil: 2
+Parchment: 10
+Spider Silk: 8

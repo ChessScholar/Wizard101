@@ -1,0 +1,8 @@
+TreasureCard:Ninja Pigs: 10
+Perfect Peridot: 100
+Ghost Fire: 200
+Golden Pearl: 40
+Leather Straps: 100
+Spring: 50
+Sunstone: 50
+Amber: 12

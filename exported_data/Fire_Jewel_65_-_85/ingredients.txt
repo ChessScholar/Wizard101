@@ -1,0 +1,3 @@
+Perfect Ruby: 10
+Mithril: 8
+TreasureCard:Mass Fire Prism: 5

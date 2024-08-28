@@ -1,0 +1,4 @@
+Glass Vial: 7
+Water Lily: 5
+Leather Straps: 10
+TreasureCard:Storm Shark: 3

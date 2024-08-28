@@ -1,0 +1,8 @@
+TreasureCard:Hammer of Thor: 10
+Perfect Amethyst: 120
+Simple Vial: 200
+Comet Tail: 60
+Silver: 40
+Scrap Iron: 60
+Sunstone: 50
+Amber: 25

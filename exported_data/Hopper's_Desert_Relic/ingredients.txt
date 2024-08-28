@@ -1,0 +1,6 @@
+TreasureCard:Amplify: 4
+TreasureCard:Sun Serpent: 3
+Sunstone: 4
+Turquoise: 8
+Fire Blossom: 20
+Perfect Ruby: 20

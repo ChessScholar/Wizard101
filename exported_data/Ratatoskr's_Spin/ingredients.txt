@@ -1,0 +1,8 @@
+TreasureCard:Ratatoskr's Spin: 10
+Peridot: 120
+Black Coal: 200
+Agave Nectar: 150
+Nickel: 45
+Iron: 225
+Frost Flower: 25
+Amber: 25

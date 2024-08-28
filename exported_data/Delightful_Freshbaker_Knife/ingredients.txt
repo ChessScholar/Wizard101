@@ -1,0 +1,21 @@
+Wunderbar Freshbaker Knife: 1
+Perfect Ruby: 50
+Karamelle Chunk: 8
+Pretzel Sticks: 30
+TreasureCard:Raging Bull: 3
+Wunderbar Artisan Knife: Variable
+Wunderbar Candymancer Knife: Variable
+Wunderbar Dreamsearcher Knife: Variable
+Wunderbar Freshbaker Knife: Variable
+Wunderbar Artisan Knife: Variable
+Wunderbar Candymancer Knife: Variable
+Wunderbar Dreamsearcher Knife: Variable
+Wunderbar Freshbaker Knife: Variable
+Wunderbar Sciencer Knife: Variable
+Wunderbar Sentamentalist Knife: Variable
+Wunderbar Sweetsmith Knife: Variable
+Wunderbar Wonderneer Knife: Variable
+Wunderbar Sciencer Knife: Variable
+Wunderbar Sentamentalist Knife: Variable
+Wunderbar Sweetsmith Knife: Variable
+Wunderbar Wonderneer Knife: Variable

@@ -1,0 +1,10 @@
+TreasureCard:Scorpion: 1
+Onyx: 1
+Citrine: 1
+Shadow Oil: 1
+Fossil: 2
+Cat Tail: 8
+Cat Tail: Variable
+Refined Cat Tail: Variable
+Cat Tail: Variable
+Refined Cat Tail: Variable

@@ -1,0 +1,10 @@
+TreasureCard:Banshee: 1
+Black Coal: 3
+Glass Vial: 1
+Deep Mushroom: 20
+Fossil: 10
+Bone: 24
+Bone: Variable
+Refined Bone: Variable
+Bone: Variable
+Refined Bone: Variable

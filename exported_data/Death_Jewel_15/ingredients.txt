@@ -1,0 +1,3 @@
+Onyx: 5
+Pyrite: 3
+TreasureCard:Banshee: 1

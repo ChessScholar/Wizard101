@@ -1,0 +1,7 @@
+TreasureCard:Precision: 1
+Perfect Ruby: 1
+Simple Vial: 1
+Sandstone: 2
+Fish Fin: 3
+Aether: 7
+Black Pearl: 13

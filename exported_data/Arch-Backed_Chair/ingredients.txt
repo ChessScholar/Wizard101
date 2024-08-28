@@ -1,0 +1,6 @@
+TreasureCard:Evil Snowman: 1
+Shadow Oil: 1
+Glass Vial: 1
+Stone Block: 16
+Water Lily: 10
+Spider Silk: 32

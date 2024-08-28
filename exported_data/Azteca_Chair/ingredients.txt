@@ -1,0 +1,5 @@
+TreasureCard:Precision: 4
+Shadow Oil: 15
+Mist Wood: 20
+Agave Nectar: 4
+Pearl: 10

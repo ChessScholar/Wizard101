@@ -1,0 +1,11 @@
+TreasureCard:Snow Serpent: 6
+Citrine: 10
+Glass Vial: 6
+Bronze Gear: 7
+Parchment: 8
+Spring: 4
+Deep Mushroom: 8
+Bronze Gear: Variable
+Refined Bronze Gear: Variable
+Bronze Gear: Variable
+Refined Bronze Gear: Variable

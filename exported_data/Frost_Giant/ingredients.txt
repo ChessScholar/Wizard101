@@ -1,0 +1,7 @@
+TreasureCard:Blizzard: 1
+Perfect Sapphire: 1
+Black Coal: 2
+Shadow Oil: 2
+Scales: 2
+Shell: 5
+Aquamarine: 1

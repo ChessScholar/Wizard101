@@ -1,0 +1,8 @@
+Perfect Sapphire: 13
+Pristine Vial: 8
+Diamond: 15
+Aquamarine: 14
+Frost Flower: 12
+Nightshade: 10
+Sunstone: 6
+Sandstone: 3

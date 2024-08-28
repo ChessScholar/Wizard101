@@ -1,0 +1,7 @@
+TreasureCard:Snow Serpent: 6
+Amethyst: 10
+Glass Vial: 6
+Leather Straps: 7
+Parchment: 8
+Spring: 4
+Deep Mushroom: 8

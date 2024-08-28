@@ -1,0 +1,11 @@
+TreasureCard:Seraph: 2
+Ghost Fire: 1
+Ruby: 1
+Black Coal: 1
+Black Lotus: 8
+Ancient Scroll: 2
+Ore: 12
+Black Lotus: Variable
+Refined Black Lotus: Variable
+Black Lotus: Variable
+Refined Black Lotus: Variable

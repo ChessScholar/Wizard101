@@ -1,0 +1,8 @@
+Senator's Poetic Laurel: 1
+TreasureCard:Minotaur: 4
+Crystal Vial: 20
+Black Pearl: 5
+Blood Moss: 25
+Ore: 30
+Water Lily: 20
+Deep Mushroom: 10

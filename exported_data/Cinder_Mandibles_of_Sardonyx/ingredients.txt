@@ -1,0 +1,8 @@
+TreasureCard:Extraordinary: 2
+Scrap Iron: 5
+Black Pearl: 4
+Ruby: 20
+Ectoplasm: 15
+Astral Shard: 3
+Lava Lily: 10
+TreasureCard:Polymorph Elemental (Fire): 1

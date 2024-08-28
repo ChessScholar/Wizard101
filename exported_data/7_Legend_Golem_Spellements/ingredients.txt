@@ -1,0 +1,7 @@
+TreasureCard:Potboiler: 1
+Colossus Idol (Life): 4
+Moongold Dust: 1
+TreasureCard:Legend Golem: Variable
+TreasureCard:Potboiler: Variable
+TreasureCard:Legend Golem: Variable
+TreasureCard:Potboiler: Variable

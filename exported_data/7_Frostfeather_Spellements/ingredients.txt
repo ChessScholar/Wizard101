@@ -1,0 +1,7 @@
+TreasureCard:Blue Phoenix: 1
+Colossus Idol (Ice): 4
+Moongold Dust: 1
+TreasureCard:Blue Phoenix: Variable
+TreasureCard:Frostfeather: Variable
+TreasureCard:Blue Phoenix: Variable
+TreasureCard:Frostfeather: Variable

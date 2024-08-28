@@ -1,0 +1,8 @@
+TreasureCard:Loremaster: 7
+Perfect Citrine: 100
+Ghost Fire: 200
+Agave Nectar: 50
+Ancient Scroll: 100
+Astral Shard: 50
+Sunstone: 50
+Amber: 12

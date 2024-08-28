@@ -1,0 +1,3 @@
+Perfect Ruby: 15
+Draconium: 10
+TreasureCard:Mega Tranquilize: 5

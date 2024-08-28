@@ -1,0 +1,7 @@
+TreasureCard:Colossus: 3
+Perfect Sapphire: 6
+Pristine Vial: 5
+Aether: 7
+Aquamarine: 12
+Scales: 18
+Spring: 17

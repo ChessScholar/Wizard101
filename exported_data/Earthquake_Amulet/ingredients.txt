@@ -1,0 +1,6 @@
+TreasureCard:Minotaur: 4
+Perfect Peridot: 4
+Pristine Vial: 4
+Golden Pearl: 10
+Scales: 13
+Fossil: 18

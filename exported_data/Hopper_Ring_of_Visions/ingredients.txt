@@ -1,0 +1,8 @@
+Perfect Peridot: 25
+Golden Pearl: 5
+Blood Moss: 10
+Astral Shard: 3
+Leather Straps: 12
+Vine: 1
+TreasureCard:Cyclops: 20
+Stone Block: 15

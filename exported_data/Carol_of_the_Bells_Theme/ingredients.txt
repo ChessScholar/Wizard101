@@ -1,0 +1,8 @@
+Fish:YuleToy Fish: 1
+TreasureCard:Life Shield: 5
+Onyx: 5
+Cat Tail: 10
+Cat Tail: Variable
+Refined Cat Tail: Variable
+Cat Tail: Variable
+Refined Cat Tail: Variable

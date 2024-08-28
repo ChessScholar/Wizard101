@@ -1,0 +1,7 @@
+TreasureCard:Meteor Strike: 1
+Perfect Ruby: 1
+Black Coal: 2
+Shadow Oil: 2
+Fish Fin: 2
+Sandstone: 5
+Sunstone: 1

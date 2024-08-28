@@ -1,0 +1,7 @@
+TreasureCard:Helephant: 9
+Shadow Oil: 4
+Ghost Fire: 2
+Crystal Vial: 1
+Diamond: 35
+Fire Blossom: 40
+Water Lily: 36

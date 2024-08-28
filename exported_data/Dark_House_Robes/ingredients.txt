@@ -1,0 +1,12 @@
+TreasureCard:Wyldfire: 2
+TreasureCard:Amplify: 2
+TreasureCard:Sleet Storm: 1
+Agave Leaves: 10
+Agave Nectar: 6
+Nightshade: 4
+Bone: 15
+Turquoise: 4
+Bone: Variable
+Refined Bone: Variable
+Bone: Variable
+Refined Bone: Variable

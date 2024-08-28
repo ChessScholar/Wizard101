@@ -1,0 +1,8 @@
+TreasureCard:Loremaster: 3
+Stardust: 2
+TreasureCard:Cyclops: 20
+Astral Shard: 5
+TreasureCard:Celestial Calendar: 4
+Aether: 12
+Pearl: 20
+TreasureCard:Amplify: 4

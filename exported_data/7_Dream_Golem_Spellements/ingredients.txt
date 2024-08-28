@@ -1,0 +1,7 @@
+TreasureCard:Kettleblack: 1
+Cyclops Idol (Death): 4
+Moongold Dust: 1
+TreasureCard:Dream Golem: Variable
+TreasureCard:Kettleblack: Variable
+TreasureCard:Dream Golem: Variable
+TreasureCard:Kettleblack: Variable

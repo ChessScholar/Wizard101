@@ -1,0 +1,3 @@
+TreasureCard:Banshee: 3
+Fish:Todd Pole: 1
+Scales: 3

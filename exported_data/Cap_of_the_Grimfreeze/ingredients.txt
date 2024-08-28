@@ -1,0 +1,11 @@
+TreasureCard:Blizzard: 5
+Onyx: 9
+Crystal Vial: 3
+Bronze Gear: 12
+Lava Lily: 15
+Grendelweed: 12
+Ore: 20
+Bronze Gear: Variable
+Refined Bronze Gear: Variable
+Bronze Gear: Variable
+Refined Bronze Gear: Variable

@@ -1,0 +1,12 @@
+TreasureCard:Grendel's Amends: 10
+Perfect Jade: 120
+Perfect Sapphire: 200
+Shell: 60
+Flying Squid Ink: 50
+Diamond: 150
+Cat Tail: 220
+Amber: 25
+Cat Tail: Variable
+Refined Cat Tail: Variable
+Cat Tail: Variable
+Refined Cat Tail: Variable

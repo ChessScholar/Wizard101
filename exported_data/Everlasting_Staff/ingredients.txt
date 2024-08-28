@@ -1,0 +1,7 @@
+TreasureCard:Centaur: 4
+Perfect Jade: 4
+Pristine Vial: 3
+Sunstone: 7
+Aether: 12
+Scales: 16
+Black Pearl: 15

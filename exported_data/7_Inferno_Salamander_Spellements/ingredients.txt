@@ -1,0 +1,7 @@
+TreasureCard:Inferno Salamander (60+690): 1
+Minotaur Idol (Fire): 4
+Moongold Dust: 1
+TreasureCard:Inferno Salamander: Variable
+TreasureCard:Inferno Salamander (60+690): Variable
+TreasureCard:Inferno Salamander: Variable
+TreasureCard:Inferno Salamander (60+690): Variable

@@ -1,0 +1,3 @@
+Storm Rune: 15
+Enhanced Storm Rune: 3
+Superior Storm Rune: 1

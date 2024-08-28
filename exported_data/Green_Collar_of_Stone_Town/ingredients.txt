@@ -1,0 +1,5 @@
+TreasureCard:Forest Lord: 1
+Ghost Fire: 9
+Pristine Vial: 10
+Kelp: 15
+Spider Silk: 12

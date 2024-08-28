@@ -1,0 +1,7 @@
+TreasureCard:Gargantuan: 1
+Perfect Amethyst: 1
+Shadow Oil: 1
+Golden Pearl: 5
+Fish Fin: 3
+Sandstone: 5
+Diamond: 7

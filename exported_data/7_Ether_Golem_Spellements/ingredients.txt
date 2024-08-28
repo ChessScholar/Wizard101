@@ -1,0 +1,7 @@
+TreasureCard:Chimenea: 1
+Minotaur Idol (Myth): 4
+Moongold Dust: 1
+TreasureCard:Chimenea: Variable
+TreasureCard:Ether Golem: Variable
+TreasureCard:Chimenea: Variable
+TreasureCard:Ether Golem: Variable

@@ -1,0 +1,12 @@
+Diamond: 6
+Astral Shard: 10
+Ore: 20
+Black Lotus: 10
+Sapphire: 20
+TreasureCard:Snow Shield: 5
+TreasureCard:Lord of Winter: 2
+TreasureCard:Winter Moon: 2
+Black Lotus: Variable
+Refined Black Lotus: Variable
+Black Lotus: Variable
+Refined Black Lotus: Variable

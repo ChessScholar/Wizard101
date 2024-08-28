@@ -1,0 +1,3 @@
+Flawless Ruby: 5
+Tungsten: 9
+TreasureCard:Take Power: 4

@@ -1,0 +1,3 @@
+Fire Rune: 50
+Enhanced Fire Rune: 15
+Superior Fire Rune: 2

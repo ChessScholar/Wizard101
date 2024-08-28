@@ -1,0 +1,5 @@
+Stone Block: 15
+Stone Block: Variable
+Refined Stone Block: Variable
+Stone Block: Variable
+Refined Stone Block: Variable

@@ -1,0 +1,5 @@
+Ruby: 1
+Jade: 2
+Glass Vial: 4
+Scrap Iron: 8
+Stone Block: 10

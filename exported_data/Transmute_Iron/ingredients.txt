@@ -1,0 +1,2 @@
+Pyrite: 10
+Opal: 1

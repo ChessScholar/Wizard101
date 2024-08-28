@@ -1,0 +1,3 @@
+Parchment: 2
+Simple Vial: 1
+Amethyst: 2

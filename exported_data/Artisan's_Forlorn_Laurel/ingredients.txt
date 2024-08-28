@@ -1,0 +1,8 @@
+Senator's Forlorn Laurel: 1
+TreasureCard:Skeletal Dragon: 4
+TreasureCard:Wraith: 6
+Braided Vine: 2
+Black Pearl: 5
+Grendelweed: 5
+Stone Block: 10
+Scrap Iron: 6

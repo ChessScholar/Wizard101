@@ -1,0 +1,8 @@
+TreasureCard:Pierce: 4
+Agave Nectar: 4
+Black Pearl: 4
+Perfect Peridot: 10
+TreasureCard:Balanceblade: 1
+Astral Shard: 3
+TreasureCard:Troll: 10
+TreasureCard:Mythblade: 1

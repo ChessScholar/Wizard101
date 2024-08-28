@@ -1,0 +1,3 @@
+TreasureCard:Troll: 2
+Black Coal: 16
+Glass Vial: 1

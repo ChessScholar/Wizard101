@@ -1,0 +1,5 @@
+TreasureCard:Dark Sprite: 1
+Jade: 1
+Black Coal: 2
+Mist Wood: 6
+Red Mandrake: 1

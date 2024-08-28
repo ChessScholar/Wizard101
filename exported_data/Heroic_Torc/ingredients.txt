@@ -1,0 +1,11 @@
+TreasureCard:Gargantuan: 1
+TreasureCard:Vengeance: 1
+Ghost Fire: 10
+Pristine Vial: 10
+Grendelweed: 16
+Ectoplasm: 13
+Bronze Gear: 12
+Bronze Gear: Variable
+Refined Bronze Gear: Variable
+Bronze Gear: Variable
+Refined Bronze Gear: Variable

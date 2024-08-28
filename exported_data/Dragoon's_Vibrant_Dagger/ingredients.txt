@@ -1,0 +1,20 @@
+Vanguard's Vibrant Dagger: 1
+Alchemical Extract: 300
+Alchemical Salts: 50
+Alchemical Crystals: 5
+Dragonspyre Vanguard's Dagger: Variable
+Vanguard's Balanced Dagger: Variable
+Vanguard's Deadly Dagger: Variable
+Vanguard's Fiery Dagger: Variable
+Dragonspyre Vanguard's Dagger: Variable
+Vanguard's Balanced Dagger: Variable
+Vanguard's Deadly Dagger: Variable
+Vanguard's Fiery Dagger: Variable
+Vanguard's Icy Dagger: Variable
+Vanguard's Mythic Dagger: Variable
+Vanguard's Shocking Dagger: Variable
+Vanguard's Vibrant Dagger: Variable
+Vanguard's Icy Dagger: Variable
+Vanguard's Mythic Dagger: Variable
+Vanguard's Shocking Dagger: Variable
+Vanguard's Vibrant Dagger: Variable

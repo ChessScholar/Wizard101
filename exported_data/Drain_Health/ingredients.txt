@@ -1,0 +1,6 @@
+TreasureCard:Leprechaun: 1
+Onyx: 1
+Jade: 1
+Black Coal: 2
+Mist Wood: 6
+Ore: 4

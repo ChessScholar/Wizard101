@@ -1,0 +1,19 @@
+TreasureCard:Sandstorm: 1
+Cyclops Idol (Balance): 4
+Moongold Dust: 1
+Cyclops Idol (Balance): Variable
+Elf Idol (Balance): Variable
+Fairy Idol (Balance): Variable
+Krokomummy Idol (Balance): Variable
+Cyclops Idol (Balance): Variable
+Elf Idol (Balance): Variable
+Fairy Idol (Balance): Variable
+Krokomummy Idol (Balance): Variable
+Minotaur Idol (Balance): Variable
+Ninja Pig Idol (Balance): Variable
+Rat Thief Idol (Balance): Variable
+Wolf Warrior Idol (Balance): Variable
+Minotaur Idol (Balance): Variable
+Ninja Pig Idol (Balance): Variable
+Rat Thief Idol (Balance): Variable
+Wolf Warrior Idol (Balance): Variable

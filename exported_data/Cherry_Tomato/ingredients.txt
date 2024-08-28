@@ -1,0 +1,3 @@
+TreasureCard:Nature's Wrath: 5
+Fish:Bubba Fish: 1
+Pristine Vial: 5

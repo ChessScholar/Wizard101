@@ -1,0 +1,12 @@
+TreasureCard:Catalan: 6
+Perfect Amethyst: 100
+Ghost Fire: 200
+Water Lily: 100
+Bronze Gear: 100
+Spring: 50
+Sunstone: 50
+Amber: 12
+Bronze Gear: Variable
+Refined Bronze Gear: Variable
+Bronze Gear: Variable
+Refined Bronze Gear: Variable

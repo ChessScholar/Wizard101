@@ -1,0 +1,2 @@
+TreasureCard:Ice Elf: 1
+Ice Rune: 2

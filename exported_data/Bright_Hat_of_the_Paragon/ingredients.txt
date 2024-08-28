@@ -1,0 +1,11 @@
+TreasureCard:Cyclops: 5
+Ruby: 10
+Glass Vial: 6
+Spider Silk: 10
+Black Lotus: 12
+Diamond: 8
+Stone Block: 15
+Black Lotus: Variable
+Refined Black Lotus: Variable
+Black Lotus: Variable
+Refined Black Lotus: Variable

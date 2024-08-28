@@ -1,0 +1,8 @@
+TreasureCard:Bladestorm: 3
+Nightshade: 5
+Black Pearl: 4
+Perfect Citrine: 10
+TreasureCard:Elemental Blade: 1
+Astral Shard: 3
+TreasureCard:Scorpion: 10
+TreasureCard:Spirit Blade: 1

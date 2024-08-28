@@ -1,0 +1,8 @@
+TreasureCard:Keeper of the Flame: 10
+Perfect Peridot: 100
+Ghost Fire: 200
+Blood Moss: 100
+Spider Silk: 100
+Scrap Iron: 50
+Sunstone: 50
+Amber: 12

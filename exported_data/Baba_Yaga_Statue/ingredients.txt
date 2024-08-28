@@ -1,0 +1,22 @@
+TreasureCard:Myth Shield: 22
+Antiquity: 25
+Mist Wood: 100
+Ore: 100
+Stone Block: 100
+TreasureCard:Loremaster: 5
+Fulgurite: 10
+Turmeric: 2
+Antiquity: Variable
+Antique Chalice: Variable
+Antique Chest: Variable
+Antique Coins: Variable
+Antiquity: Variable
+Antique Chalice: Variable
+Antique Chest: Variable
+Antique Coins: Variable
+Antique Egg: Variable
+Antique TeaPot: Variable
+Antique Unicorn Statue: Variable
+Antique Egg: Variable
+Antique TeaPot: Variable
+Antique Unicorn Statue: Variable
