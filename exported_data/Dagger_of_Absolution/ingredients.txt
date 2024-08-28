@@ -1,0 +1,8 @@
+Sapphire: 2
+Black Coal: 4
+Mist Wood: 2
+Cat Tail: 2
+Mist Wood: Variable
+Refined Mist Wood: Variable
+Mist Wood: Variable
+Refined Mist Wood: Variable

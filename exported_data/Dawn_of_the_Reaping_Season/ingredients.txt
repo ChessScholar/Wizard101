@@ -1,0 +1,12 @@
+TreasureCard:Loremaster: 3
+Stardust: 2
+TreasureCard:Goat Monk: 1
+Astral Shard: 5
+TreasureCard:Spinysaur: 4
+Aether: 4
+Black Lotus: 20
+TreasureCard:Fortify: 5
+Black Lotus: Variable
+Refined Black Lotus: Variable
+Black Lotus: Variable
+Refined Black Lotus: Variable
