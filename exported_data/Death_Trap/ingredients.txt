@@ -1,0 +1,5 @@
+TreasureCard:Dark Sprite: 1
+Shadow Oil: 1
+Jade: 1
+Red Mandrake: 6
+Scrap Iron: 6

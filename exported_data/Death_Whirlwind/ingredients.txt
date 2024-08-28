@@ -1,0 +1,8 @@
+TreasureCard:Doom and Gloom: 25
+Fish:Deathacuda: 5
+House:Ultra King Parsley: 1
+Mote of Transport: 1
+Perfect Onyx: 25
+Ectoplasm: 5
+Aether: 10
+Parchment: 15
