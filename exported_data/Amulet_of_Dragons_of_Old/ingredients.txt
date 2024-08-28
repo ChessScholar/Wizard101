@@ -1,0 +1,9 @@
+TreasureCard:Skeletal Dragon: 1
+Ghost Fire: 7
+Pristine Vial: 8
+Black Pearl: 15
+Bone: 12
+Bone: Variable
+Refined Bone: Variable
+Bone: Variable
+Refined Bone: Variable

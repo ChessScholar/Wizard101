@@ -1,0 +1,22 @@
+Interstellar Officer's Boots: 1
+Perfect Opal: 20
+Leather Straps: 75
+Aethyr Dust: 25
+Kelp: 150
+Spider Silk: 125
+Interstellar Delegate Trekkers: Variable
+Interstellar Engineer Trekkers: Variable
+Interstellar Explorer's Trekkers: Variable
+Interstellar Hero's Trekkers: Variable
+Interstellar Delegate Trekkers: Variable
+Interstellar Engineer Trekkers: Variable
+Interstellar Explorer's Trekkers: Variable
+Interstellar Hero's Trekkers: Variable
+Interstellar Navigator's Boots: Variable
+Interstellar Officer's Boots: Variable
+Interstellar Warrior Trekkers: Variable
+Medic's Interstellar Trekkers: Variable
+Interstellar Navigator's Boots: Variable
+Interstellar Officer's Boots: Variable
+Interstellar Warrior Trekkers: Variable
+Medic's Interstellar Trekkers: Variable

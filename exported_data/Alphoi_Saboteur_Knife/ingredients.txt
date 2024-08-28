@@ -1,0 +1,23 @@
+Immutable Zanadu Dagger: 1
+Perfect Citrine: 20
+Shocked Key: 6
+Pure Aethyr: 1
+Aethyr Dust: 50
+Astral Shard: 7
+Aethyr Ore: 20
+Hopeful Zanadu Dagger: Variable
+Crackling Zanadu Dagger: Variable
+Illuminated Zanadu Dagger: Variable
+Freezing Zanadu Dagger: Variable
+Hopeful Zanadu Dagger: Variable
+Crackling Zanadu Dagger: Variable
+Illuminated Zanadu Dagger: Variable
+Freezing Zanadu Dagger: Variable
+Verdant Zanadu Dagger: Variable
+Immutable Zanadu Dagger: Variable
+Blazing Zanadu Dagger: Variable
+File:(Item) Grim Zanadu Dagger.png: Variable
+Verdant Zanadu Dagger: Variable
+Immutable Zanadu Dagger: Variable
+Blazing Zanadu Dagger: Variable
+Grim Zanadu Dagger: Variable

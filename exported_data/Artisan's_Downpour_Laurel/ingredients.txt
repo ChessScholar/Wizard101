@@ -1,0 +1,8 @@
+Senator's Downpour Laurel: 1
+TreasureCard:Leviathan: 3
+TreasureCard:Stormzilla: 2
+Braided Vine: 2
+Black Pearl: 5
+Aether: 4
+Stone Block: 10
+Sandstone: 6
