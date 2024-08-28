@@ -1,0 +1,8 @@
+Senator's Forlorn Sandals: 1
+TreasureCard:Skeletal Dragon: 4
+TreasureCard:Wraith: 6
+Braided Vine: 2
+Stone Block: 10
+Sandstone: 6
+Scrap Iron: 6
+Nightshade: 6

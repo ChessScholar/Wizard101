@@ -1,0 +1,8 @@
+Ares' Spear of Elation: 1
+TreasureCard:Forest Lord: 4
+TreasureCard:Centaur: 8
+Braided Vine: 3
+Black Pearl: 5
+Grendelweed: 5
+Stone Block: 10
+Scrap Iron: 6

@@ -1,0 +1,8 @@
+Ares' Sunflare Spear: 1
+TreasureCard:Efreet: 6
+TreasureCard:Helephant: 3
+Braided Vine: 3
+Grendelweed: 5
+Golden Pearl: 5
+Fossil: 5
+Diamond: 5

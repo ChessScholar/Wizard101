@@ -1,0 +1,9 @@
+Ruby: 2
+Jade: 2
+Glass Vial: 5
+Bone: 10
+Deep Mushroom: 15
+Bone: Variable
+Refined Bone: Variable
+Bone: Variable
+Refined Bone: Variable

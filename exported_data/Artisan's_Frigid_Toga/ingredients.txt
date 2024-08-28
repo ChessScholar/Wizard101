@@ -1,0 +1,8 @@
+Senator's Frigid Toga: 1
+TreasureCard:Snow Angel: 5
+TreasureCard:Colossus: 8
+Braided Vine: 3
+Black Pearl: 5
+Aether: 4
+Stone Block: 10
+Sandstone: 6

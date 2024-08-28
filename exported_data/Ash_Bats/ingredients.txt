@@ -1,0 +1,2 @@
+TreasureCard:Fire Cat: 1
+Fire Rune: 2

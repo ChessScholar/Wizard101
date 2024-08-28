@@ -1,0 +1,8 @@
+TreasureCard:Steal Charm: 4
+Agave Nectar: 4
+Black Pearl: 4
+Perfect Ruby: 10
+TreasureCard:Balanceblade: 1
+Astral Shard: 3
+TreasureCard:Fire Elf: 10
+TreasureCard:Fireblade: 1

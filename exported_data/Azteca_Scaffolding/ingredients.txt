@@ -1,0 +1,5 @@
+TreasureCard:Rebirth: 2
+TreasureCard:Earthquake: 1
+Mist Wood: 30
+Agave Leaves: 8
+Leather Straps: 20
