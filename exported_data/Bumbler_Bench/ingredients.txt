@@ -1,0 +1,11 @@
+Leather Straps: 20
+Perfect Jade: 20
+Comet Tail: 12
+Fossil: 5
+Golden Pearl: 6
+Agave Leaves: 6
+Bronze Gear: 10
+Bronze Gear: Variable
+Refined Bronze Gear: Variable
+Bronze Gear: Variable
+Refined Bronze Gear: Variable

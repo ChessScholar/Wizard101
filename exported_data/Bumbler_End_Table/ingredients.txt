@@ -1,0 +1,11 @@
+Leather Straps: 20
+Perfect Amethyst: 30
+Comet Tail: 6
+Fossil: 3
+Golden Pearl: 2
+Agave Leaves: 2
+Bronze Gear: 6
+Bronze Gear: Variable
+Refined Bronze Gear: Variable
+Bronze Gear: Variable
+Refined Bronze Gear: Variable
