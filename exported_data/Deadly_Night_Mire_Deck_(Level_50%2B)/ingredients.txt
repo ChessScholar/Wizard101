@@ -1,0 +1,4 @@
+Claw: 6
+Lava Lily: 28
+Grendelweed: 6
+Ghost Fire: 15

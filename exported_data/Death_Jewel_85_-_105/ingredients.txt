@@ -1,0 +1,3 @@
+Perfect Onyx: 15
+Draconium: 10
+TreasureCard:Mega Pacify: 5

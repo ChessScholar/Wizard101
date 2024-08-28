@@ -1,0 +1,4 @@
+TreasureCard:Weakness: 1
+Death Rune: 5
+Enhanced Death Rune: 2
+Superior Death Rune: 1

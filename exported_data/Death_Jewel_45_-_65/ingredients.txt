@@ -1,0 +1,3 @@
+Flawless Onyx: 15
+Bronze: 4
+TreasureCard:Deathspear: 4

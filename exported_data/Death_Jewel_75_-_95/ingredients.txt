@@ -1,0 +1,3 @@
+Perfect Onyx: 15
+Orichalcum: 7
+TreasureCard:Strangle: 5

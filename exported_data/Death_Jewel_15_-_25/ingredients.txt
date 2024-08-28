@@ -1,0 +1,3 @@
+Onyx: 10
+Iron: 2
+TreasureCard:Dream Shield: 2
