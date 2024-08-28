@@ -1,0 +1,7 @@
+TreasureCard:Keen Eyes: 1
+Perfect Sapphire: 1
+Ghost Fire: 2
+Sandstone: 2
+Fish Fin: 2
+Aether: 5
+Grendelweed: 7
