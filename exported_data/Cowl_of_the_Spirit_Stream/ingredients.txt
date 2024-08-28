@@ -1,0 +1,7 @@
+TreasureCard:Seraph: 5
+Amethyst: 9
+Crystal Vial: 3
+Ectoplasm: 12
+Lava Lily: 15
+Grendelweed: 12
+Ore: 20

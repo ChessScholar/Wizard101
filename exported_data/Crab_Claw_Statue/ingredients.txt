@@ -1,0 +1,7 @@
+TreasureCard:Sniper: 2
+Perfect Onyx: 1
+Crystal Vial: 1
+Sunstone: 4
+Fish Fin: 4
+Pearl: 6
+Blood Moss: 12

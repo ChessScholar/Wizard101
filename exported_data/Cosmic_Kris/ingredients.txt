@@ -1,0 +1,8 @@
+TreasureCard:Sniper: 8
+Ghost Fire: 5
+Pristine Vial: 6
+Sunstone: 10
+Golden Pearl: 11
+Fish Fin: 8
+Pearl: 11
+Scales: 8

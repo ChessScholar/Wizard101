@@ -1,0 +1,7 @@
+Sapphire: 10
+Onyx: 10
+Simple Vial: 3
+Leather Straps: 3
+Red Mandrake: 4
+Ancient Scroll: 2
+Mist Wood: 6

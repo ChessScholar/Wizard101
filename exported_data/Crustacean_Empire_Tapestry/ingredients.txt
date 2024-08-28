@@ -1,0 +1,6 @@
+TreasureCard:Ice Prism: 20
+Seal of the Seven Seas: 1
+Cobalt: 10
+Shell: 25
+Aquamarine: 15
+Flawless Sapphire: 25

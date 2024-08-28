@@ -1,0 +1,7 @@
+TreasureCard:Polymorph Gobbler: 2
+Perfect Citrine: 1
+Glass Vial: 1
+Fire Blossom: 2
+Kelp: 8
+Nightshade: 17
+Fish Fin: 5

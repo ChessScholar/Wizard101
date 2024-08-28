@@ -1,0 +1,10 @@
+TreasureCard:Blood Bat: 1
+Black Coal: 2
+Simple Vial: 2
+Cat Tail: 10
+Black Lotus: 1
+Ectoplasm: 20
+Cat Tail: Variable
+Refined Cat Tail: Variable
+Cat Tail: Variable
+Refined Cat Tail: Variable
