@@ -1,0 +1,10 @@
+TreasureCard:Centaur: 8
+Perfect Amethyst: 1
+Pristine Vial: 1
+Sunstone: 10
+Black Lotus: 15
+Scrap Iron: 10
+Black Lotus: Variable
+Refined Black Lotus: Variable
+Black Lotus: Variable
+Refined Black Lotus: Variable
