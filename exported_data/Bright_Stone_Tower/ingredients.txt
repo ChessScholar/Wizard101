@@ -1,0 +1,11 @@
+TreasureCard:Troll: 3
+Shadow Oil: 3
+Glass Vial: 1
+Stone Block: 26
+Red Mandrake: 20
+Parchment: 10
+Bronze Gear: 44
+Bronze Gear: Variable
+Refined Bronze Gear: Variable
+Bronze Gear: Variable
+Refined Bronze Gear: Variable

@@ -1,0 +1,11 @@
+TreasureCard:Sunbird: 6
+Citrine: 14
+Crystal Vial: 3
+Bone: 12
+Frost Flower: 15
+Black Pearl: 8
+Stone Block: 20
+Bone: Variable
+Refined Bone: Variable
+Bone: Variable
+Refined Bone: Variable

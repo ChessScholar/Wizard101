@@ -1,0 +1,3 @@
+Polygons: 45
+Perfect Hematite: 50
+Deep Mushroom: 90

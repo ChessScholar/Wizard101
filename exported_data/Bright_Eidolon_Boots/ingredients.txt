@@ -1,0 +1,11 @@
+TreasureCard:Troll: 4
+Ruby: 11
+Glass Vial: 3
+Bronze Gear: 4
+Cat Tail: 5
+Acorn: 4
+Deep Mushroom: 5
+Bronze Gear: Variable
+Refined Bronze Gear: Variable
+Bronze Gear: Variable
+Refined Bronze Gear: Variable

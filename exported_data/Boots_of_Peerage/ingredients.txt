@@ -1,0 +1,8 @@
+Perfect Ruby: 10
+Pristine Vial: 6
+Fire Blossom: 13
+Lava Lily: 12
+Blood Moss: 10
+Sunstone: 4
+Shell: 7
+Ectoplasm: 5

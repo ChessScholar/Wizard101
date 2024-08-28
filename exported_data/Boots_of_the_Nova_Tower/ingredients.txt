@@ -1,0 +1,11 @@
+Astral Shard: 5
+TreasureCard:Plague: 2
+Comet Tail: 25
+Black Lotus: 20
+Blood Moss: 20
+TreasureCard:Keeper of the Flame: 2
+TreasureCard:Conviction: 4
+Black Lotus: Variable
+Refined Black Lotus: Variable
+Black Lotus: Variable
+Refined Black Lotus: Variable

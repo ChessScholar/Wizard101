@@ -1,0 +1,11 @@
+TreasureCard:Locust Swarm: 4
+Peridot: 7
+Glass Vial: 5
+Bronze Gear: 8
+Ore: 10
+Grendelweed: 8
+Stone Block: 12
+Bronze Gear: Variable
+Refined Bronze Gear: Variable
+Bronze Gear: Variable
+Refined Bronze Gear: Variable

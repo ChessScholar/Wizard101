@@ -1,0 +1,7 @@
+TreasureCard:Snow Serpent: 5
+Citrine: 12
+Glass Vial: 4
+Leather Straps: 5
+Scrap Iron: 6
+Nightshade: 4
+Deep Mushroom: 7
