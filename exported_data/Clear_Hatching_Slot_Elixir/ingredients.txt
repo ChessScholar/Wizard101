@@ -1,0 +1,4 @@
+Hatch Pepper: 100
+Glass Vial: 1
+Black Coal: 25
+Peridot: 25

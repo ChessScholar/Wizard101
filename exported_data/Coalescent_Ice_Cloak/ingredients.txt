@@ -1,0 +1,7 @@
+TreasureCard:Hydra: 4
+Perfect Citrine: 7
+Pristine Vial: 6
+Sunstone: 4
+Golden Pearl: 7
+Shell: 15
+Fossil: 20

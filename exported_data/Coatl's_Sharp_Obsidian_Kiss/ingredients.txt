@@ -1,0 +1,12 @@
+TreasureCard:Basilisk: 4
+TreasureCard:Amplify: 4
+Vine: 3
+Braided Vine: 1
+Agave Nectar: 5
+Black Lotus: 15
+Stone Block: 8
+Turquoise: 8
+Black Lotus: Variable
+Refined Black Lotus: Variable
+Black Lotus: Variable
+Refined Black Lotus: Variable

@@ -1,0 +1,7 @@
+TreasureCard:Seraph: 6
+Sapphire: 12
+Crystal Vial: 4
+Leather Straps: 15
+Parchment: 20
+Fire Blossom: 12
+Ore: 25

@@ -1,0 +1,7 @@
+Leather Straps: 2
+Simple Vial: 1
+Amethyst: 2
+Leather Straps: Variable
+Refined Leather Straps: Variable
+Leather Straps: Variable
+Refined Leather Straps: Variable

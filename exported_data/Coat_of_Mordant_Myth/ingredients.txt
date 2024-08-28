@@ -1,0 +1,7 @@
+TreasureCard:Ghoul: 6
+Peridot: 10
+Glass Vial: 6
+Ectoplasm: 7
+Parchment: 8
+Spring: 4
+Deep Mushroom: 8
