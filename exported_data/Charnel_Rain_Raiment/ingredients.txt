@@ -1,0 +1,7 @@
+TreasureCard:Kraken: 6
+Onyx: 12
+Crystal Vial: 4
+Spider Silk: 15
+Parchment: 20
+Fire Blossom: 12
+Ore: 25

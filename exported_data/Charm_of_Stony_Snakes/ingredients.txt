@@ -1,0 +1,5 @@
+TreasureCard:Medusa: 1
+Ghost Fire: 9
+Pristine Vial: 10
+Golden Pearl: 15
+Scales: 12

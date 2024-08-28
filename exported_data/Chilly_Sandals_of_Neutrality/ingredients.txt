@@ -1,0 +1,7 @@
+TreasureCard:Sandstorm: 4
+Sapphire: 10
+Glass Vial: 6
+Leather Straps: 10
+Lava Lily: 12
+Water Lily: 12
+Ore: 18
