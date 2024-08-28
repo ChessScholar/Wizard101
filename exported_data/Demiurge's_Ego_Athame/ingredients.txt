@@ -1,0 +1,21 @@
+Malevolent Myth Athame: 1
+Perfect Peridot: 60
+Synthonium: 20
+Old One Artifacts: 50
+TreasureCard:Witch's House Call: 3
+Malevolent Balance Athame: Variable
+Malevolent Death Athame: Variable
+Malevolent Fire Athame: Variable
+File:(Item) Malevolent Ice Athame.png: Variable
+Malevolent Balance Athame: Variable
+Malevolent Death Athame: Variable
+Malevolent Fire Athame: Variable
+Malevolent Ice Athame: Variable
+Malevolent Life Athame: Variable
+Malevolent Myth Athame: Variable
+File:(Item) Malevolent Power Athame.png: Variable
+File:(Item) Malevolent Storm Athame.png: Variable
+Malevolent Life Athame: Variable
+Malevolent Myth Athame: Variable
+Malevolent Power Athame: Variable
+Malevolent Storm Athame: Variable
