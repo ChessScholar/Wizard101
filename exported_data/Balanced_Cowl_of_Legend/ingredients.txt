@@ -1,0 +1,7 @@
+TreasureCard:Sandstorm: 5
+Peridot: 9
+Crystal Vial: 3
+Spider Silk: 12
+Lava Lily: 15
+Grendelweed: 12
+Ore: 20

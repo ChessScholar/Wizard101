@@ -1,0 +1,11 @@
+TreasureCard:Sandstorm: 4
+Peridot: 10
+Glass Vial: 6
+Bone: 10
+Lava Lily: 12
+Water Lily: 12
+Ore: 18
+Bone: Variable
+Refined Bone: Variable
+Bone: Variable
+Refined Bone: Variable

@@ -1,0 +1,8 @@
+Ghost Fire: 7
+Black Lotus: 5
+Ectoplasm: 10
+TreasureCard:Cyclops: 3
+Black Lotus: Variable
+Refined Black Lotus: Variable
+Black Lotus: Variable
+Refined Black Lotus: Variable

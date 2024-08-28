@@ -1,0 +1,7 @@
+TreasureCard:Sandstorm: 6
+Peridot: 12
+Crystal Vial: 4
+Ectoplasm: 15
+Parchment: 20
+Fire Blossom: 12
+Ore: 25

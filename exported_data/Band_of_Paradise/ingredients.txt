@@ -1,0 +1,4 @@
+Citrine: 7
+Glass Vial: 5
+Spider Silk: 10
+Mist Wood: 15

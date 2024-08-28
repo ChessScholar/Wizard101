@@ -1,0 +1,10 @@
+TreasureCard:Phoenix: 5
+Perfect Ruby: 10
+Pristine Vial: 4
+Sunstone: 6
+Black Lotus: 14
+Water Lily: 14
+Black Lotus: Variable
+Refined Black Lotus: Variable
+Black Lotus: Variable
+Refined Black Lotus: Variable

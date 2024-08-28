@@ -1,0 +1,11 @@
+TreasureCard:Fire Elf: 6
+Peridot: 10
+Glass Vial: 6
+Bone: 7
+Parchment: 8
+Spring: 4
+Deep Mushroom: 8
+Bone: Variable
+Refined Bone: Variable
+Bone: Variable
+Refined Bone: Variable

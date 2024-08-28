@@ -1,0 +1,3 @@
+Polygons: 70
+Perfect Hematite: 50
+Mist Wood: 140
