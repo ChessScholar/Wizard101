@@ -1,0 +1,8 @@
+Senator's Raincloud Mantle: 1
+TreasureCard:Triton: 3
+Crystal Vial: 20
+Black Pearl: 5
+Water Lily: 20
+Blood Moss: 30
+Ore: 15
+Pearl: 10

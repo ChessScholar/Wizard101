@@ -1,0 +1,8 @@
+Senator's Judicial Laurel: 1
+TreasureCard:Donate Power: 2
+Crystal Vial: 20
+Black Pearl: 5
+Blood Moss: 25
+Ore: 15
+Water Lily: 20
+Spider Silk: 20

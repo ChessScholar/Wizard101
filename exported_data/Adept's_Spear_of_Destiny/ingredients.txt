@@ -1,0 +1,8 @@
+Ares' Spear of Destiny: 1
+TreasureCard:Minotaur: 4
+Pristine Vial: 20
+Black Pearl: 7
+Blood Moss: 25
+Ore: 30
+Water Lily: 20
+Frost Flower: 20

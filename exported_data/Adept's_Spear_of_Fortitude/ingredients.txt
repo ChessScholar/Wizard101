@@ -1,0 +1,8 @@
+Ares' Spear of Fortitude: 1
+TreasureCard:Centaur: 7
+Crystal Vial: 20
+Black Pearl: 7
+Water Lily: 20
+Blood Moss: 30
+Ore: 15
+Pearl: 10

@@ -1,0 +1,7 @@
+Mist Wood: 100
+Stone Block: 65
+Acorn: 150
+Flying Squid Ink: 30
+Aethyr Dust: 60
+Leather Straps: 125
+Flawless Peridot: 35

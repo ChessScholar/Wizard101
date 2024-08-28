@@ -1,0 +1,23 @@
+Hopeful Zanadu Pendant: 1
+Perfect Opal: 20
+Shocked Key: 8
+Pure Aethyr: 1
+Aethyr Dust: 50
+Astral Shard: 7
+Aethyr Ore: 20
+Hopeful Zanadu Pendant: Variable
+Crackling Zanadu Pendant: Variable
+Illuminated Zanadu Pendant: Variable
+Freezing Zanadu Pendant: Variable
+Hopeful Zanadu Pendant: Variable
+Crackling Zanadu Pendant: Variable
+Illuminated Zanadu Pendant: Variable
+Freezing Zanadu Pendant: Variable
+Verdant Zanadu Pendant: Variable
+Immutable Zanadu Pendant: Variable
+Blazing Zanadu Pendant: Variable
+Grim Zanadu Pendant: Variable
+Verdant Zanadu Pendant: Variable
+Immutable Zanadu Pendant: Variable
+Blazing Zanadu Pendant: Variable
+Grim Zanadu Pendant: Variable
