@@ -1,5 +1,0 @@
-TreasureCard:Banshee: 3
-Shadow Oil: 3
-Glass Vial: 2
-Mist Wood: 20
-Red Mandrake: 30

@@ -1,6 +1,0 @@
-TreasureCard:Wraith: 7
-Perfect Jade: 1
-Pristine Vial: 1
-Sunstone: 10
-Aether: 12
-Grendelweed: 12

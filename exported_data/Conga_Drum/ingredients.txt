@@ -1,7 +1,0 @@
-TreasureCard:Giant: 2
-Amethyst: 1
-Crystal Vial: 1
-Aether: 2
-Shell: 8
-Fossil: 12
-Scales: 4

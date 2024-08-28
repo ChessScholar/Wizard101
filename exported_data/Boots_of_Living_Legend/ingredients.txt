@@ -1,7 +1,0 @@
-TreasureCard:Centaur: 3
-Perfect Jade: 3
-Pristine Vial: 2
-Fish Fin: 11
-Aether: 10
-Kelp: 18
-Spring: 14

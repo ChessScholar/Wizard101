@@ -1,7 +1,0 @@
-TreasureCard:Phoenix: 1
-Mist Wood: 25
-Agave Leaves: 10
-Fire Blossom: 10
-Grendelweed: 5
-Sunstone: 2
-Spider Silk: 10

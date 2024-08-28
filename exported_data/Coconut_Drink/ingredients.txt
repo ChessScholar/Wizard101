@@ -1,7 +1,0 @@
-TreasureCard:Keen Eyes: 1
-Shadow Oil: 4
-Glass Vial: 1
-Red Mandrake: 18
-Shell: 6
-Kelp: 5
-Scales: 6

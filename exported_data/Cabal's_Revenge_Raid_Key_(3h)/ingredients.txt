@@ -1,2 +1,0 @@
-TreasureCard:Azoth: 452
-TreasureCard:Summon Gulag Guard: 30

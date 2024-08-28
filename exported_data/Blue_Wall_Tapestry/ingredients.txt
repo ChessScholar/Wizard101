@@ -1,6 +1,0 @@
-TreasureCard:Lightning Bats: 1
-Black Coal: 3
-Glass Vial: 1
-Deep Mushroom: 20
-Frost Flower: 6
-Leather Straps: 24

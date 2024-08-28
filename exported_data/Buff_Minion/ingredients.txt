@@ -1,8 +1,0 @@
-Peridot: 1
-Cat Tail: 6
-Stone Block: 4
-Black Pearl: 1
-Cat Tail: Variable
-Refined Cat Tail: Variable
-Cat Tail: Variable
-Refined Cat Tail: Variable

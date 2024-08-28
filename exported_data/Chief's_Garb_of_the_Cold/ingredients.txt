@@ -1,6 +1,0 @@
-TreasureCard:Frostbite: 2
-Perfect Sapphire: 10
-Pristine Vial: 4
-Golden Pearl: 9
-Lava Lily: 13
-Blood Moss: 9

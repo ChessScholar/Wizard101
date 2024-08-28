@@ -1,7 +1,0 @@
-TreasureCard:Polymorph Treant: 1
-Ghost Fire: 1
-Crystal Vial: 1
-Aquamarine: 3
-Kelp: 7
-Nightshade: 19
-Scales: 3

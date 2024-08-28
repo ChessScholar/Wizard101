@@ -1,7 +1,0 @@
-TreasureCard:Efreet: 1
-TreasureCard:Fire Trap: 1
-TreasureCard:Furnace: 1
-Black Coal: 25
-Ghost Fire: 20
-Stone Block: 10
-Sandstone: 5

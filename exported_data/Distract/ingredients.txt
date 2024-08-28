@@ -1,9 +1,0 @@
-TreasureCard:Evil Snowman: 1
-Sapphire: 2
-Black Coal: 4
-Bronze Gear: 4
-Ore: 2
-Bronze Gear: Variable
-Refined Bronze Gear: Variable
-Bronze Gear: Variable
-Refined Bronze Gear: Variable

@@ -1,6 +1,0 @@
-TreasureCard:Amplify: 6
-Perfect Onyx: 9
-Pristine Vial: 5
-Aether: 18
-Lava Lily: 11
-Fossil: 10

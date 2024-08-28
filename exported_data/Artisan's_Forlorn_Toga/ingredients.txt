@@ -1,8 +1,0 @@
-Senator's Forlorn Toga: 1
-TreasureCard:Skeletal Dragon: 5
-TreasureCard:Wraith: 8
-Braided Vine: 3
-Fossil: 5
-Sandstone: 6
-Golden Pearl: 5
-Diamond: 5

@@ -1,7 +1,0 @@
-TreasureCard:Centaur: 4
-Perfect Jade: 7
-Pristine Vial: 6
-Golden Pearl: 8
-Kelp: 16
-Shell: 15
-Nightshade: 18

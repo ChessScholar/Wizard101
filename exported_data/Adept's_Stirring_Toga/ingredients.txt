@@ -1,8 +1,0 @@
-Senator's Stirring Toga: 1
-TreasureCard:Centaur: 6
-Pristine Vial: 20
-Black Pearl: 7
-Water Lily: 20
-Blood Moss: 30
-Ore: 15
-Pearl: 10

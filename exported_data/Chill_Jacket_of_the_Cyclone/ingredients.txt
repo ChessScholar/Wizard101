@@ -1,7 +1,0 @@
-TreasureCard:Lightning Bats: 6
-Sapphire: 10
-Glass Vial: 6
-Leather Straps: 7
-Parchment: 8
-Spring: 4
-Deep Mushroom: 8

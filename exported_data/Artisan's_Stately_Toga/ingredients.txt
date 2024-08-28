@@ -1,8 +1,0 @@
-Senator's Stately Toga: 1
-TreasureCard:Ra: 4
-TreasureCard:Hydra: 6
-Braided Vine: 3
-Stone Block: 10
-Sandstone: 6
-Scrap Iron: 6
-Nightshade: 6

@@ -1,6 +1,0 @@
-TreasureCard:Triton: 2
-Perfect Amethyst: 10
-Pristine Vial: 5
-Aether: 18
-Sandstone: 10
-Scales: 9

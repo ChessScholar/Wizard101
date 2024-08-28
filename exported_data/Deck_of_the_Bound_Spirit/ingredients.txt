@@ -1,6 +1,0 @@
-Mote of Wisdom: 1
-Mote of Beauty: 1
-Mote of Eternity: 1
-Mote of Severity: 1
-Fish:ExecuShiner: 2
-Perfect Peridot: 25

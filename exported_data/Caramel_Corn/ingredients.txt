@@ -1,3 +1,0 @@
-TreasureCard:Mend: 3
-Fish:Brain Sturgeon: 6
-Perfect Peridot: 5

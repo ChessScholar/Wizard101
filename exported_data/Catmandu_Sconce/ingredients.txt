@@ -1,7 +1,0 @@
-Polygons: 10
-Perfect Hematite: 50
-Black Lotus: 20
-Black Lotus: Variable
-Refined Black Lotus: Variable
-Black Lotus: Variable
-Refined Black Lotus: Variable

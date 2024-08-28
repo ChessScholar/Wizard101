@@ -1,8 +1,0 @@
-Ares' Spear of Furor: 1
-TreasureCard:Skeletal Dragon: 6
-TreasureCard:Wraith: 8
-Braided Vine: 3
-Fossil: 5
-Sandstone: 6
-Golden Pearl: 5
-Diamond: 5

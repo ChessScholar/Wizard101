@@ -1,8 +1,0 @@
-Senator's Stately Laurel: 1
-TreasureCard:Ra: 3
-TreasureCard:Hydra: 5
-Braided Vine: 2
-Fossil: 5
-Sandstone: 6
-Golden Pearl: 5
-Diamond: 5

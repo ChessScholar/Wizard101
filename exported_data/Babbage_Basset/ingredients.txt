@@ -1,8 +1,0 @@
-Blueprint Token: 10
-Amber: 1
-Bone: 5
-Ectoplasm: 5
-Bone: Variable
-Refined Bone: Variable
-Bone: Variable
-Refined Bone: Variable

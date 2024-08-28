@@ -1,8 +1,0 @@
-Senator's Devious Toga: 1
-TreasureCard:Wraith: 6
-Crystal Vial: 20
-Black Pearl: 7
-Blood Moss: 25
-Ore: 15
-Water Lily: 20
-Deep Mushroom: 10

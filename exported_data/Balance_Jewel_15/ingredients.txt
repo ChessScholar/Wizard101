@@ -1,3 +1,0 @@
-Citrine: 5
-Pyrite: 3
-TreasureCard:Scorpion: 1

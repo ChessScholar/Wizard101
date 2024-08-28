@@ -1,8 +1,0 @@
-Jade: 1
-Simple Vial: 6
-Deep Mushroom: 5
-Ore: 6
-Deep Mushroom: Variable
-Refined Deep Mushroom: Variable
-Deep Mushroom: Variable
-Refined Deep Mushroom: Variable

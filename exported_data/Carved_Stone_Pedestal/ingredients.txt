@@ -1,9 +1,0 @@
-Black Coal: 2
-Simple Vial: 2
-Stone Block: 8
-Red Mandrake: 4
-Bronze Gear: 16
-Stone Block: Variable
-Refined Stone Block: Variable
-Stone Block: Variable
-Refined Stone Block: Variable

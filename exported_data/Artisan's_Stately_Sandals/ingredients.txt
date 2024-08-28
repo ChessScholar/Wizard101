@@ -1,8 +1,0 @@
-Senator's Stately Sandals: 1
-TreasureCard:Ra: 3
-TreasureCard:Hydra: 5
-Braided Vine: 2
-Grendelweed: 5
-Golden Pearl: 5
-Fossil: 5
-Diamond: 5

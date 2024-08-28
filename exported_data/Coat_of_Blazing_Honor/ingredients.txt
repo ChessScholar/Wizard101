@@ -1,7 +1,0 @@
-TreasureCard:Locust Swarm: 6
-Ruby: 14
-Crystal Vial: 3
-Ectoplasm: 12
-Frost Flower: 15
-Black Pearl: 8
-Stone Block: 20

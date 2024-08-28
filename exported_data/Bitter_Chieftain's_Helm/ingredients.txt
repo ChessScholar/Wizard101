@@ -1,6 +1,0 @@
-TreasureCard:Colossus: 4
-Perfect Sapphire: 9
-Pristine Vial: 4
-Fire Blossom: 20
-Fish Fin: 18
-Blood Moss: 9

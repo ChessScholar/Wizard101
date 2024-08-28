@@ -1,6 +1,0 @@
-TreasureCard:Frostbite: 2
-Perfect Sapphire: 5
-Pristine Vial: 3
-Frost Flower: 16
-Nightshade: 12
-Blood Moss: 9

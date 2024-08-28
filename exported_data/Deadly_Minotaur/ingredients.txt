@@ -1,3 +1,0 @@
-TreasureCard:Meowiarty (Attack): 1
-Death Rune: 2
-Enhanced Death Rune: 2

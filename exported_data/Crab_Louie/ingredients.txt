@@ -1,3 +1,0 @@
-TreasureCard:Scorpion: 3
-Fish:Dragon Eel: 1
-Scales: 7

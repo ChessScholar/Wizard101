@@ -1,6 +1,0 @@
-TreasureCard:Kraken: 1
-Perfect Amethyst: 1
-Shadow Oil: 1
-Aether: 1
-Pearl: 5
-Scrap Iron: 3

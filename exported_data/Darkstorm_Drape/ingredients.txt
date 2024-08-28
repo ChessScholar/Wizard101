@@ -1,6 +1,0 @@
-TreasureCard:Skeletal Pirate: 4
-Perfect Onyx: 5
-Pristine Vial: 4
-Aquamarine: 15
-Pearl: 16
-Fossil: 20

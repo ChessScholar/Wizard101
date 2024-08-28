@@ -1,7 +1,0 @@
-Mist Wood: 15
-Perfect Onyx: 20
-Comet Tail: 11
-Fossil: 3
-Blood Moss: 10
-Spring: 8
-Astral Shard: 4

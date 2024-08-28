@@ -1,5 +1,0 @@
-TreasureCard:Snow Angel: 1
-Ghost Fire: 9
-Pristine Vial: 10
-Grendelweed: 15
-Ectoplasm: 12

@@ -1,6 +1,0 @@
-TreasureCard:Scarab: 2
-Black Coal: 3
-Glass Vial: 1
-Mist Wood: 20
-Red Mandrake: 6
-Parchment: 6

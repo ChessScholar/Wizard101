@@ -1,8 +1,0 @@
-TreasureCard:Legend Shield: 4
-Pristine Vial: 25
-Agave Leaves: 10
-Agave Nectar: 4
-Scrap Iron: 6
-Sunstone: 5
-Fossil: 4
-Turquoise: 5

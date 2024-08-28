@@ -1,7 +1,0 @@
-TreasureCard:Polymorph Ninja Pig: 2
-Perfect Peridot: 2
-Glass Vial: 2
-Sunstone: 4
-Fish Fin: 6
-Pearl: 10
-Black Pearl: 4

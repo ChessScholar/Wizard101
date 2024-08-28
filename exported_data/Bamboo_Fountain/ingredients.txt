@@ -1,6 +1,0 @@
-TreasureCard:Humongofrog: 6
-Shadow Oil: 4
-Ghost Fire: 1
-Crystal Vial: 1
-Acorn: 16
-Black Pearl: 13

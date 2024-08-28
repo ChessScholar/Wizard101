@@ -1,8 +1,0 @@
-Senator's Downpour Shoes: 1
-TreasureCard:Leviathan: 3
-TreasureCard:Stormzilla: 2
-Braided Vine: 2
-Black Pearl: 5
-Aether: 4
-Scrap Iron: 6
-Nightshade: 6

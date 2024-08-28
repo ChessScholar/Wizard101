@@ -1,7 +1,0 @@
-TreasureCard:Giant: 1
-Perfect Citrine: 1
-Ghost Fire: 2
-Sandstone: 4
-Fish Fin: 2
-Aether: 3
-Diamond: 8

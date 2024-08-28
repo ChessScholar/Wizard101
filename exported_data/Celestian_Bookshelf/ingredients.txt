@@ -1,7 +1,0 @@
-TreasureCard:Giant: 2
-Perfect Citrine: 1
-Glass Vial: 1
-Kelp: 6
-Aquamarine: 3
-Water Lily: 15
-Fish Fin: 4

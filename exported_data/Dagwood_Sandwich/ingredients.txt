@@ -1,3 +1,0 @@
-TreasureCard:Blood Bat: 2
-Glass Vial: 1
-Shadow Oil: 4

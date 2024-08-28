@@ -1,7 +1,0 @@
-TreasureCard:Banshee: 6
-Jade: 14
-Crystal Vial: 3
-Leather Straps: 12
-Frost Flower: 15
-Black Pearl: 8
-Stone Block: 20

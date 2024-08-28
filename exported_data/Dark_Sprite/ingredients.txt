@@ -1,8 +1,0 @@
-Onyx: 1
-Black Coal: 1
-Bone: 3
-Mist Wood: 2
-Bone: Variable
-Refined Bone: Variable
-Bone: Variable
-Refined Bone: Variable

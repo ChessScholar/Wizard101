@@ -1,7 +1,0 @@
-TreasureCard:Lightning Bats: 3
-Shadow Oil: 2
-Glass Vial: 1
-Deep Mushroom: 32
-Acorn: 10
-Frost Flower: 10
-Spider Silk: 24

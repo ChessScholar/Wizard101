@@ -1,7 +1,0 @@
-Cat Tail: 5
-Simple Vial: 2
-Black Coal: 1
-Cat Tail: Variable
-Refined Cat Tail: Variable
-Cat Tail: Variable
-Refined Cat Tail: Variable

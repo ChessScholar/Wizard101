@@ -1,7 +1,0 @@
-Black Coal: 1
-Simple Vial: 1
-Mist Wood: 6
-Mist Wood: Variable
-Refined Mist Wood: Variable
-Mist Wood: Variable
-Refined Mist Wood: Variable

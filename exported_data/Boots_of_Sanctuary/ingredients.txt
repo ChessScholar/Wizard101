@@ -1,6 +1,0 @@
-TreasureCard:Regenerate: 3
-Perfect Jade: 6
-Pristine Vial: 4
-Aether: 17
-Nightshade: 16
-Ancient Scroll: 8

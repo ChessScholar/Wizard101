@@ -1,7 +1,0 @@
-TreasureCard:Polymorph Gobbler: 2
-Ghost Fire: 1
-Glass Vial: 1
-Shell: 10
-Scales: 5
-Kelp: 9
-Spring: 8

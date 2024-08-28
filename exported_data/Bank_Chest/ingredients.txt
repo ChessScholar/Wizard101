@@ -1,4 +1,0 @@
-Blueprint Token: 10
-Mist Wood: 10
-Sandstone: 1
-Leather Straps: 5

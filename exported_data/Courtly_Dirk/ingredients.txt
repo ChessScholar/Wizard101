@@ -1,8 +1,0 @@
-Ghost Fire: 7
-Pristine Vial: 10
-Fossil: 17
-Water Lily: 5
-Ancient Scroll: 12
-Acorn: 10
-Ectoplasm: 8
-Fish Fin: 5

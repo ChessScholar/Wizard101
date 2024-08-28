@@ -1,3 +1,0 @@
-TreasureCard:Earthquake: 3
-Fish:Bone Fish: 1
-Scales: 4

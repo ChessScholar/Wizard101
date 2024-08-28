@@ -1,6 +1,0 @@
-TreasureCard:Hydra: 4
-Perfect Citrine: 6
-Pristine Vial: 4
-Sunstone: 6
-Kelp: 14
-Acorn: 12

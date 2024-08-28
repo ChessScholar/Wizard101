@@ -1,8 +1,0 @@
-TreasureCard:Troll: 1
-Shadow Oil: 2
-Stone Block: 4
-Cat Tail: 9
-Cat Tail: Variable
-Refined Cat Tail: Variable
-Cat Tail: Variable
-Refined Cat Tail: Variable

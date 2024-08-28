@@ -1,3 +1,0 @@
-Perfect Citrine: 15
-Draconium: 10
-TreasureCard:Elemental Defuse: 5

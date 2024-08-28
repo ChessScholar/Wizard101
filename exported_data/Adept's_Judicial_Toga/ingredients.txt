@@ -1,8 +1,0 @@
-Senator's Judicial Toga: 1
-TreasureCard:Donate Power: 3
-Pristine Vial: 20
-Black Pearl: 7
-Blood Moss: 25
-Ore: 30
-Water Lily: 20
-Frost Flower: 20

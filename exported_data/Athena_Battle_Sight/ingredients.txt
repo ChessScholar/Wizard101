@@ -1,8 +1,0 @@
-TreasureCard:Athena Battle Sight: 10
-Perfect Amethyst: 120
-Ghost Fire: 200
-Grendelweed: 60
-Turquoise: 40
-Scrap Iron: 60
-Sunstone: 40
-Amber: 18

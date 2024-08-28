@@ -1,8 +1,0 @@
-TreasureCard:Earthquake: 1
-TreasureCard:Myth Shield: 4
-TreasureCard:Punishment: 1
-Agave Nectar: 3
-Agave Leaves: 5
-Deep Mushroom: 20
-Fossil: 3
-Turquoise: 3

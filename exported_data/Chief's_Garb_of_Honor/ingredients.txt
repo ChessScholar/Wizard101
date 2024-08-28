@@ -1,6 +1,0 @@
-TreasureCard:Hydra: 4
-Perfect Citrine: 10
-Pristine Vial: 5
-Frost Flower: 16
-Diamond: 18
-Acorn: 12

@@ -1,7 +1,0 @@
-Platinum: 50
-Flying Squid Ink: 50
-Aethyr Ore: 100
-Copper: 120
-Nickel: 120
-Mist Wood: 200
-Flawless Onyx: 25

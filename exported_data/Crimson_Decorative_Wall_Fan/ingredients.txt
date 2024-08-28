@@ -1,3 +1,0 @@
-Sonic Spring: 1
-Pyrite: 2
-Deep Mushroom: 10

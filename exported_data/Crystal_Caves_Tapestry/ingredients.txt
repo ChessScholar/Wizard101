@@ -1,7 +1,0 @@
-TreasureCard:Disarm: 19
-House:Angel Oak: 5
-House:Spirit Caller Drum: 1
-Crystal Vial: 30
-Red Mandrake: 60
-Blood Moss: 30
-Leather Straps: 15

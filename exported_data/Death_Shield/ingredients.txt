@@ -1,3 +1,0 @@
-Onyx: 1
-Stone Block: 2
-Leather Straps: 2

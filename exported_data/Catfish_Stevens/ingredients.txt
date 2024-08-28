@@ -1,3 +1,0 @@
-TreasureCard:Fire Cat: 2
-Fish:Bearded Trout: 1
-Red Mandrake: 4

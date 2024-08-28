@@ -1,3 +1,0 @@
-TreasureCard:Troll: 1
-Glass Vial: 1
-Shadow Oil: 3

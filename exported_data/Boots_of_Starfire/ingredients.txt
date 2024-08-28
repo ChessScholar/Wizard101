@@ -1,7 +1,0 @@
-Astral Shard: 5
-TreasureCard:Krampus: 1
-Comet Tail: 20
-TreasureCard:Luminous Weaver: 1
-Ectoplasm: 25
-Acorn: 25
-TreasureCard:Furnace: 1

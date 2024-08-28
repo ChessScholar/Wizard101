@@ -1,8 +1,0 @@
-Ghost Fire: 7
-Scrap Iron: 5
-Bronze Gear: 10
-TreasureCard:Banshee: 3
-Scrap Iron: Variable
-Refined Scrap Iron: Variable
-Scrap Iron: Variable
-Refined Scrap Iron: Variable

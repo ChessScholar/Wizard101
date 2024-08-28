@@ -1,9 +1,0 @@
-Sapphire: 2
-Ruby: 2
-Black Coal: 4
-Deep Mushroom: 4
-Ore: 2
-Deep Mushroom: Variable
-Refined Deep Mushroom: Variable
-Deep Mushroom: Variable
-Refined Deep Mushroom: Variable

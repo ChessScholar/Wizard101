@@ -1,3 +1,0 @@
-TreasureCard:Skeletal Pirate: 5
-Fish:Sturgeon General: 1
-Pristine Vial: 4

@@ -1,4 +1,0 @@
-Claw: 10
-Lava Lily: 40
-Grendelweed: 10
-Ghost Fire: 30

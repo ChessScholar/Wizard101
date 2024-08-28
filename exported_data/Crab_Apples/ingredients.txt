@@ -1,3 +1,0 @@
-TreasureCard:Dark Sprite: 1
-Glass Vial: 1
-Hatch Pepper: 10

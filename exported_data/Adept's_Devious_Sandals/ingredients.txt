@@ -1,8 +1,0 @@
-Senator's Devious Sandals: 1
-TreasureCard:Wraith: 5
-Pristine Vial: 20
-Black Pearl: 5
-Blood Moss: 25
-Ore: 30
-Water Lily: 20
-Frost Flower: 20

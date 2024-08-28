@@ -1,8 +1,0 @@
-Fish:Merle Doodlefish: 1
-Fish:Satyr Doodlefish: 1
-Fish:Zeus Doodlefish: 1
-Fish:Pacal Doodlefish: 1
-Fish:Goliath Doodlefish: 1
-Fish:Kiliman Copperleaf Doodlefish: 1
-Fish:Nalia DuneStrider Doodlefish: 1
-Fish:Flytrap Doodlefish: 1

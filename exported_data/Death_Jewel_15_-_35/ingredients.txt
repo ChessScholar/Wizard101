@@ -1,3 +1,0 @@
-Onyx: 15
-Copper: 1
-TreasureCard:Skeletal Pirate: 2

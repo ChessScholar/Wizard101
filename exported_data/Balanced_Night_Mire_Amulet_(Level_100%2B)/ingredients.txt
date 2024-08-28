@@ -1,4 +1,0 @@
-Pollen Mote: 4
-Comet Tail: 32
-Grendelweed: 8
-Ghost Fire: 25

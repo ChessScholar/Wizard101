@@ -1,7 +1,0 @@
-TreasureCard:Rain of Fire: 1
-TreasureCard:Fuel: 1
-Ghost Fire: 20
-Black Coal: 25
-Perfect Ruby: 10
-Scrap Iron: 10
-Sunstone: 2

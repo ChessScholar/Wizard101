@@ -1,7 +1,0 @@
-TreasureCard:Colossal: 2
-TreasureCard:Hydra: 2
-TreasureCard:Elemental Blade: 2
-Sunstone: 6
-Scrap Iron: 25
-Turquoise: 8
-Leather Straps: 25

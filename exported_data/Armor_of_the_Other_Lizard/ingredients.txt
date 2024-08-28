@@ -1,8 +1,0 @@
-TreasureCard:Sanctuary: 6
-TreasureCard:Fortify: 2
-TreasureCard:Sleet Storm: 1
-Agave Leaves: 10
-Agave Nectar: 6
-Grendelweed: 4
-Deep Mushroom: 15
-Turquoise: 4

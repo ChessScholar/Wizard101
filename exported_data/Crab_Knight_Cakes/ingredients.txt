@@ -1,3 +1,0 @@
-TreasureCard:Draw Health: 4
-Fish:Cuddlefish: 5
-Perfect Amethyst: 5

@@ -1,8 +1,0 @@
-Ares' Spear of Havoc: 1
-TreasureCard:Wraith: 7
-Crystal Vial: 20
-Black Pearl: 7
-Blood Moss: 25
-Ore: 15
-Water Lily: 20
-Deep Mushroom: 6

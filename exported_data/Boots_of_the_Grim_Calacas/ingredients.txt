@@ -1,8 +1,0 @@
-TreasureCard:Rebirth: 2
-TreasureCard:Life Shield: 4
-TreasureCard:Virulence: 1
-Agave Nectar: 3
-Agave Leaves: 5
-Aquamarine: 20
-Aether: 3
-Turquoise: 3

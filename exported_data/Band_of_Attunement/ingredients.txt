@@ -1,8 +1,0 @@
-Citrine: 4
-Black Coal: 4
-Red Mandrake: 2
-Ore: 4
-Red Mandrake: Variable
-Refined Red Mandrake: Variable
-Red Mandrake: Variable
-Refined Red Mandrake: Variable

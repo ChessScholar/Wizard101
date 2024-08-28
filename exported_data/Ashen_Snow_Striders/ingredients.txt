@@ -1,7 +1,0 @@
-TreasureCard:Phoenix: 5
-Perfect Ruby: 3
-Pristine Vial: 2
-Fish Fin: 11
-Aquamarine: 14
-Kelp: 18
-Nightshade: 14

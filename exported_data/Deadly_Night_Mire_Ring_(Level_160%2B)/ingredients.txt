@@ -1,4 +1,0 @@
-Pixels: 10
-Polygons: 40
-Grendelweed: 10
-Ghost Fire: 30

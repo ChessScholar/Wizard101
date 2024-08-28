@@ -1,6 +1,0 @@
-TreasureCard:Meteor Strike: 10
-Ghost Fire: 5
-Pristine Vial: 10
-Sunstone: 4
-Kelp: 12
-Spring: 15

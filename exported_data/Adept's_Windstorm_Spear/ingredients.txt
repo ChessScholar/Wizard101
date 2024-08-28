@@ -1,8 +1,0 @@
-Ares' Windstorm Spear: 1
-TreasureCard:Triton: 5
-Crystal Vial: 20
-Black Pearl: 7
-Blood Moss: 25
-Ore: 30
-Water Lily: 20
-Spring: 20

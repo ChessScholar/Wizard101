@@ -1,7 +1,0 @@
-Astral Shard: 5
-TreasureCard:Krampus: 1
-Comet Tail: 20
-TreasureCard:Keeper of the Flame: 1
-Ectoplasm: 25
-Leather Straps: 25
-TreasureCard:Furnace: 1

@@ -1,8 +1,0 @@
-Spiritual Hands of Fate: 1
-Augmentation Rune: 10
-Improvement Rune: 10
-Strengthening Rune: 10
-Ultimate Rune (Rank 4): 12
-Death Rune: 110
-Enhanced Death Rune: 35
-Superior Death Rune: 15

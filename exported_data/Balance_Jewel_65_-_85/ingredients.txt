@@ -1,3 +1,0 @@
-Perfect Citrine: 10
-Mithril: 8
-TreasureCard:Sniper: 5

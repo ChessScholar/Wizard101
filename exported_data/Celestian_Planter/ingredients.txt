@@ -1,7 +1,0 @@
-TreasureCard:Polymorph Gobbler: 1
-Jade: 1
-Pristine Vial: 1
-Aquamarine: 4
-Kelp: 8
-Acorn: 15
-Scales: 6

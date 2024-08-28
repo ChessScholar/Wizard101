@@ -1,8 +1,0 @@
-Senator's Sandals of Vigor: 1
-TreasureCard:Forest Lord: 2
-TreasureCard:Centaur: 6
-Braided Vine: 2
-Fossil: 5
-Sandstone: 6
-Golden Pearl: 5
-Diamond: 5

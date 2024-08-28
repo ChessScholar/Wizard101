@@ -1,8 +1,0 @@
-Senator's Scholarly Toga: 1
-TreasureCard:Medusa: 4
-TreasureCard:Earthquake: 3
-Braided Vine: 3
-Black Pearl: 5
-Aether: 4
-Scrap Iron: 6
-Nightshade: 6

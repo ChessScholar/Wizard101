@@ -1,8 +1,0 @@
-TreasureCard:Brimstone Revenant: 1
-Astral Shard: 7
-TreasureCard:Mythblade: 1
-TreasureCard:Fireblade: 1
-TreasureCard:Spirit Blade: 1
-TreasureCard:Medusa: 1
-TreasureCard:Reliquary: 4
-TreasureCard:Loremaster: 1

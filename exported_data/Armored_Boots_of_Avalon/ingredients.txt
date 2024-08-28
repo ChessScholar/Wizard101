@@ -1,8 +1,0 @@
-Perfect Sapphire: 10
-Pristine Vial: 7
-Grendelweed: 14
-Ancient Scroll: 12
-Fossil: 10
-Parchment: 8
-Spider Silk: 7
-Fish Fin: 5

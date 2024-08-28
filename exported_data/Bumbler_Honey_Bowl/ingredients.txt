@@ -1,7 +1,0 @@
-Ectoplasm: 20
-Perfect Amethyst: 25
-Comet Tail: 11
-Astral Shard: 6
-Frost Flower: 8
-Spring: 12
-Aether: 4

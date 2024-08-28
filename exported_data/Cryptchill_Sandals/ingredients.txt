@@ -1,7 +1,0 @@
-Sapphire: 6
-Onyx: 6
-Simple Vial: 2
-Leather Straps: 2
-Stone Block: 3
-Blood Moss: 2
-Mist Wood: 3

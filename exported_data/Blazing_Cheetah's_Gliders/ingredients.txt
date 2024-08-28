@@ -1,8 +1,0 @@
-TreasureCard:Elemental Shield: 1
-Perfect Ruby: 8
-Pristine Vial: 7
-Fire Blossom: 14
-Acorn: 14
-Fossil: 12
-Kelp: 10
-Fish Fin: 5

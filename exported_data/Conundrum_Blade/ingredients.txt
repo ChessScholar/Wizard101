@@ -1,8 +1,0 @@
-Citrine: 4
-Black Coal: 3
-Mist Wood: 4
-Deep Mushroom: 2
-Mist Wood: Variable
-Refined Mist Wood: Variable
-Mist Wood: Variable
-Refined Mist Wood: Variable

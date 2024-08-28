@@ -1,8 +1,0 @@
-Senator's Scholarly Shoes: 1
-TreasureCard:Medusa: 3
-TreasureCard:Earthquake: 2
-Braided Vine: 2
-Black Pearl: 5
-Grendelweed: 5
-Stone Block: 10
-Scrap Iron: 6

@@ -1,8 +1,0 @@
-TreasureCard:Earthquake: 8
-Ghost Fire: 7
-Crystal Vial: 4
-Fire Blossom: 30
-Grendelweed: 35
-Spring: 35
-Black Pearl: 35
-Ancient Scroll: 35

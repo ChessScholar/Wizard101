@@ -1,2 +1,0 @@
-Elemental Azoth: 1
-TreasureCard:Azoth: 2

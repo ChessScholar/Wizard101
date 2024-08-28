@@ -1,4 +1,0 @@
-Peridot: 1
-Black Coal: 1
-Deep Mushroom: 4
-Mist Wood: 2

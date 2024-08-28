@@ -1,7 +1,0 @@
-TreasureCard:Skeletal Pirate: 5
-Perfect Onyx: 3
-Pristine Vial: 2
-Fish Fin: 11
-Aether: 10
-Pearl: 11
-Spring: 15

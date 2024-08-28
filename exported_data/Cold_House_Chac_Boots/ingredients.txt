@@ -1,8 +1,0 @@
-TreasureCard:Efreet: 1
-TreasureCard:Colossus: 3
-TreasureCard:Fortify: 5
-Agave Leaves: 10
-Diamond: 4
-Shell: 20
-Spider Silk: 25
-Turquoise: 5

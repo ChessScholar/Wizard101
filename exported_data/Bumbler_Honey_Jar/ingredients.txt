@@ -1,6 +1,0 @@
-Ectoplasm: 30
-Perfect Jade: 15
-Comet Tail: 14
-Astral Shard: 6
-Agave Leaves: 8
-Red Mandrake: 10

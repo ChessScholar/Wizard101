@@ -1,7 +1,0 @@
-Mist Wood: 25
-Aquamarine: 9
-Comet Tail: 13
-Sunstone: 9
-Kelp: 18
-Pristine Vial: 9
-Golden Pearl: 9

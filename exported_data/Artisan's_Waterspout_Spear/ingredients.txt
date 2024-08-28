@@ -1,8 +1,0 @@
-Ares' Waterspout Spear: 1
-TreasureCard:Leviathan: 5
-TreasureCard:Stormzilla: 3
-Braided Vine: 3
-Grendelweed: 5
-Golden Pearl: 5
-Scrap Iron: 6
-Nightshade: 6

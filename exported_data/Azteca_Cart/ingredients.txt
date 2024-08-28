@@ -1,5 +1,0 @@
-TreasureCard:Nature's Wrath: 4
-Mist Wood: 20
-Stone Block: 5
-Agave Leaves: 5
-Leather Straps: 20

@@ -1,7 +1,0 @@
-TreasureCard:Locust Swarm: 4
-Sapphire: 7
-Glass Vial: 5
-Ectoplasm: 8
-Ore: 10
-Grendelweed: 8
-Stone Block: 12

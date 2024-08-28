@@ -1,8 +1,0 @@
-Ares' Charred Spear: 1
-TreasureCard:Phoenix: 4
-Crystal Vial: 20
-Black Pearl: 7
-Ore: 15
-Water Lily: 30
-Blood Moss: 25
-Frost Flower: 20

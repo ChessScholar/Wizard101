@@ -1,2 +1,0 @@
-Harmonic Azoth: 4
-TreasureCard:Azoth: 1

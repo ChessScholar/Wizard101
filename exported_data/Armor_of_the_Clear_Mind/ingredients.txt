@@ -1,8 +1,0 @@
-TreasureCard:Goat Monk: 1
-Astral Shard: 7
-TreasureCard:Mythblade: 1
-TreasureCard:Lifeblade: 1
-TreasureCard:Spirit Blade: 1
-TreasureCard:Medusa: 1
-TreasureCard:Mend: 1
-TreasureCard:Loremaster: 1

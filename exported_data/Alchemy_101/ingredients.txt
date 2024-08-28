@@ -1,7 +1,0 @@
-TreasureCard:Nature's Wrath: 2
-Shadow Oil: 3
-Simple Vial: 2
-Deep Mushroom: 16
-Water Lily: 5
-Blood Moss: 5
-Ancient Scroll: 5

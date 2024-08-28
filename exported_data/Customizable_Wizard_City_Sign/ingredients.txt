@@ -1,6 +1,0 @@
-TreasureCard:Earthquake: 9
-Perfect Sapphire: 1
-Pristine Vial: 1
-Sunstone: 10
-Diamond: 20
-Fire Blossom: 40

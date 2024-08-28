@@ -1,8 +1,0 @@
-TreasureCard:Balanceblade: 1
-TreasureCard:Amplify: 2
-TreasureCard:Sleet Storm: 1
-Agave Leaves: 10
-Agave Nectar: 6
-Diamond: 4
-Aquamarine: 10
-Turquoise: 4

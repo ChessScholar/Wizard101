@@ -1,8 +1,0 @@
-Ares' Cold Heart Spear: 1
-TreasureCard:Snow Angel: 6
-TreasureCard:Colossus: 8
-Braided Vine: 3
-Black Pearl: 5
-Aether: 4
-Stone Block: 10
-Sandstone: 6

@@ -1,8 +1,0 @@
-TreasureCard:Spirit Shield: 1
-Perfect Sapphire: 8
-Pristine Vial: 7
-Grendelweed: 15
-Ancient Scroll: 14
-Fossil: 12
-Lava Lily: 11
-Fish Fin: 7

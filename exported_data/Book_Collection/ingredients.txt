@@ -1,9 +1,0 @@
-Black Coal: 2
-Simple Vial: 2
-Deep Mushroom: 12
-Parchment: 2
-Leather Straps: 16
-Deep Mushroom: Variable
-Refined Deep Mushroom: Variable
-Deep Mushroom: Variable
-Refined Deep Mushroom: Variable

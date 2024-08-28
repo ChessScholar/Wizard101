@@ -1,6 +1,0 @@
-TreasureCard:Phoenix: 5
-Perfect Ruby: 9
-Pristine Vial: 5
-Fire Blossom: 18
-Nightshade: 17
-Water Lily: 14

@@ -1,3 +1,0 @@
-TreasureCard:Krokomummy: 4
-Fish:Archer Fish: 5
-Perfect Sapphire: 5

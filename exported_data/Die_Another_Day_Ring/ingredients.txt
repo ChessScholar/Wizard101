@@ -1,8 +1,0 @@
-Perfect Jade: 25
-Golden Pearl: 5
-Blood Moss: 10
-Astral Shard: 3
-Simple Vial: 12
-Vine: 1
-TreasureCard:Nature's Wrath: 20
-Stone Block: 15

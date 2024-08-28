@@ -1,7 +1,0 @@
-TreasureCard:Kraken: 4
-Onyx: 10
-Glass Vial: 6
-Ectoplasm: 10
-Lava Lily: 12
-Water Lily: 12
-Ore: 18

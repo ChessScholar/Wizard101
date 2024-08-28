@@ -1,7 +1,0 @@
-TreasureCard:Phoenix: 6
-Perfect Ruby: 4
-Pristine Vial: 5
-Golden Pearl: 7
-Aether: 12
-Shell: 16
-Nightshade: 5

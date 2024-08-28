@@ -1,7 +1,0 @@
-TreasureCard:Lightning Bats: 6
-Onyx: 10
-Glass Vial: 6
-Spider Silk: 7
-Parchment: 8
-Spring: 4
-Deep Mushroom: 8
